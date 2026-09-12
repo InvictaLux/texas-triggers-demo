@@ -1,0 +1,53 @@
+{
+  "name": "MAGPUL MOE-K2 AK Grip",
+  "slug": "magpul-moe-k2-ak-grip",
+  "source_url": "https://texastriggerusa.com/product/moe-k2-ak-grip-ak47-ak74/",
+  "canonical_url": "https://texastriggerusa.com/product/moe-k2-ak-grip-ak47-ak74/",
+  "regular_price": "$ 20.95",
+  "sale_price": "",
+  "short_description_text": "",
+  "short_description_html": "",
+  "description_text": "Magpul AK Grip | MOE K2 Grip for AK-47 & AK-74 Rifles Better ergonomics without overcomplicating your AK. The Magpul",
+  "description_html": "<h2 class=\"PDq2pG_selectionAnchorContainer\" data-section-id=\"t6h1p1\" data-start=\"0\" data-end=\"56\">Magpul AK Grip | MOE K2 Grip for AK-47 &amp; AK-74 Rifles</h2>\r\n<p data-start=\"58\" data-end=\"113\"><strong data-start=\"58\" data-end=\"113\">Better ergonomics without overcomplicating your AK.</strong></p>\r\n<p data-start=\"115\" data-end=\"372\">The <strong data-start=\"119\" data-end=\"137\">Magpul",
+  "categories": [
+    "Accessories"
+  ],
+  "sku": "",
+  "attributes": {},
+  "compatibility_information": "",
+  "variations": {},
+  "gallery_source_urls": [
+    "https://texastriggerusa.com/wp-content/uploads/2025/11/mag683-blk_magpul_moe_k2_ak_grip-ak47-ak74_01.jpg",
+    "https://texastriggerusa.com/wp-content/uploads/2025/11/mag683-blk_magpul_moe_k2_ak_grip-ak47-ak74_02.jpg",
+    "https://texastriggerusa.com/wp-content/uploads/2025/11/mag683-blk_magpul_moe_k2_ak_grip-ak47-ak74_03.jpg",
+    "https://texastriggerusa.com/wp-content/uploads/2025/11/mag683-blk_magpul_moe_k2_ak_grip-ak47-ak74_04.jpg",
+    "https://texastriggerusa.com/wp-content/uploads/2025/11/mag683-blk_magpul_moe_k2_ak_grip-ak47-ak74_05.jpg"
+  ],
+  "images": [
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2025/11/mag683-blk_magpul_moe_k2_ak_grip-ak47-ak74_01.jpg",
+      "path": "assets/products/magpul-moe-k2-ak-grip/01.jpg",
+      "sha256": "06a2c62fafeb11f2cd4ca08ffa139d6f4538cce7718128c57b12ec1abd6406c6"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2025/11/mag683-blk_magpul_moe_k2_ak_grip-ak47-ak74_02.jpg",
+      "path": "assets/products/magpul-moe-k2-ak-grip/02.jpg",
+      "sha256": "6ed0d5b06d30f10b52f194e14b1686f0815d3804c9d0bdf8512a431e7e50e63f"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2025/11/mag683-blk_magpul_moe_k2_ak_grip-ak47-ak74_03.jpg",
+      "path": "assets/products/magpul-moe-k2-ak-grip/03.jpg",
+      "sha256": "ced7d9afebfe5301e4c2edda2fc2ab674eb8ec659dc522a8b8094c9511bb9625"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2025/11/mag683-blk_magpul_moe_k2_ak_grip-ak47-ak74_04.jpg",
+      "path": "assets/products/magpul-moe-k2-ak-grip/04.jpg",
+      "sha256": "f6c747686ac20a94a10798d5427a6961f7b46b93f3398bf14dbdf92e46f5ce64"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2025/11/mag683-blk_magpul_moe_k2_ak_grip-ak47-ak74_05.jpg",
+      "path": "assets/products/magpul-moe-k2-ak-grip/05.jpg",
+      "sha256": "2c9fd57e2ad4149878e38a4d78a54e18a12f7499be75f1934fa5799f5f51fd84"
+    }
+  ]
+}

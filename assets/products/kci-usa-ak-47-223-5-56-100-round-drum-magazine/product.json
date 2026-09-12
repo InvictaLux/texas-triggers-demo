@@ -1,0 +1,35 @@
+{
+  "name": "KCI USA AK-47 .223/5.56 100-Round Drum Magazine",
+  "slug": "kci-usa-ak-47-223-5-56-100-round-drum-magazine",
+  "source_url": "https://texastriggerusa.com/product/kci-usa-ak-47-223-5-56-100-round-drum-magazine/",
+  "canonical_url": "https://texastriggerusa.com/product/kci-usa-ak-47-223-5-56-100-round-drum-magazine/",
+  "regular_price": "$ 159.99",
+  "sale_price": "",
+  "short_description_text": "",
+  "short_description_html": "",
+  "description_text": ".223 AK 100 RD Drum | KCI USA 100-Round Drum Magazine When 30 rounds just aren't enough, the .223 AK 100 rd drum delivers the",
+  "description_html": "<h4 class=\"PDq2pG_selectionAnchorContainer\" data-section-id=\"1mskcf7\" data-start=\"0\" data-end=\"56\">.223 AK 100 RD Drum | KCI USA 100-Round Drum Magazine</h4>\r\n<p data-start=\"58\" data-end=\"373\">When 30 rounds just aren't enough, the .223 AK 100 rd drum delivers the",
+  "categories": [
+    "Magazines"
+  ],
+  "sku": "",
+  "attributes": {},
+  "compatibility_information": "",
+  "variations": {},
+  "gallery_source_urls": [
+    "https://texastriggerusa.com/wp-content/uploads/2025/11/kci-usa-ak-47-223-5-56-100-round-drum-magazine-front.jpeg",
+    "https://texastriggerusa.com/wp-content/uploads/2025/11/kci-usa-ak-47-223-5-56-100-round-drum-magazine-back.jpeg"
+  ],
+  "images": [
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2025/11/kci-usa-ak-47-223-5-56-100-round-drum-magazine-front.jpeg",
+      "path": "assets/products/kci-usa-ak-47-223-5-56-100-round-drum-magazine/01.jpeg",
+      "sha256": "a3b4f822b5d7bb13464933802c841f5003a0d987d5c7807e5dd449f2726de768"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2025/11/kci-usa-ak-47-223-5-56-100-round-drum-magazine-back.jpeg",
+      "path": "assets/products/kci-usa-ak-47-223-5-56-100-round-drum-magazine/02.jpeg",
+      "sha256": "404036a892379448de1dc63f7f76ff48f06b71cc7ae7c3a1e3e2edb739ce02f0"
+    }
+  ]
+}

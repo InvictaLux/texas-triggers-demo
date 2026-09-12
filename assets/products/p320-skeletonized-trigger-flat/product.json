@@ -1,0 +1,41 @@
+{
+  "name": "P320 Skeletonized Trigger, Flat",
+  "slug": "p320-skeletonized-trigger-flat",
+  "source_url": "https://texastriggerusa.com/product/p320-flat-skeletonized-enhanced-stainless-steel-trigger/",
+  "canonical_url": "https://texastriggerusa.com/product/p320-flat-skeletonized-enhanced-stainless-steel-trigger/",
+  "regular_price": "$ 79.99",
+  "sale_price": "",
+  "short_description_text": "",
+  "short_description_html": "",
+  "description_text": "SIG Sauer® P320 Flat Skeletonized Trigger – Factory OEM Upgrade Upgrade your pistol with the genuine P320 flat skeletonized trigger from SIG Sauer®. Designed as a direct replacement for the factory",
+  "description_html": "<h4>SIG Sauer® P320 Flat Skeletonized Trigger – Factory OEM Upgrade</h4>\r\nUpgrade your pistol with the genuine <strong>P320 flat skeletonized trigger</strong> from SIG Sauer®. Designed as a direct replacement for the factory",
+  "categories": [
+    "Accessories"
+  ],
+  "sku": "",
+  "attributes": {},
+  "compatibility_information": "",
+  "variations": {},
+  "gallery_source_urls": [
+    "https://texastriggerusa.com/wp-content/uploads/2026/08/8900095-10.jpg",
+    "https://texastriggerusa.com/wp-content/uploads/2026/08/8900095-2.jpg",
+    "https://texastriggerusa.com/wp-content/uploads/2026/08/8900095-1.jpg"
+  ],
+  "images": [
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/08/8900095-10.jpg",
+      "path": "assets/products/p320-skeletonized-trigger-flat/01.jpg",
+      "sha256": "c320cc454194d6bdf9a84203317974750f88a19c1216fd72a8c10ac062bb85c9"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/08/8900095-2.jpg",
+      "path": "assets/products/p320-skeletonized-trigger-flat/02.jpg",
+      "sha256": "cff790acf87f630b946c5aaadb3f7604494f355bd2bf89ea06d71552c7c477a0"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/08/8900095-1.jpg",
+      "path": "assets/products/p320-skeletonized-trigger-flat/03.jpg",
+      "sha256": "9c6b6a9432c7fdcf055ffed7f2cdf3c8c65746afd8c080bb9f57fc1773103dd7"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "AK Gas Piston Bottle Opener Keychain",
+  "slug": "ak-gas-piston-bottle-opener-keychain",
+  "source_url": "https://texastriggerusa.com/product/ak-gas-piston-bottle-opener-keychain/",
+  "canonical_url": "https://texastriggerusa.com/product/ak-gas-piston-bottle-opener-keychain/",
+  "regular_price": "$ 25.00",
+  "sale_price": "",
+  "short_description_text": "",
+  "short_description_html": "",
+  "description_text": "Crack open a cold beer with a bottle opener that's as unique as your EDC. Precision CNC machined to resemble an AKM gas piston, this rugged keychain isn't just a",
+  "description_html": "Crack open a cold beer with a bottle opener that's as unique as your EDC. Precision CNC machined to resemble an AKM gas piston, this rugged keychain isn't just a",
+  "categories": [
+    "Accessories"
+  ],
+  "sku": "",
+  "attributes": {},
+  "compatibility_information": "",
+  "variations": {},
+  "gallery_source_urls": [
+    "https://texastriggerusa.com/wp-content/uploads/2026/08/IMG_0882.jpeg",
+    "https://texastriggerusa.com/wp-content/uploads/2026/08/IMG_0889.jpeg",
+    "https://texastriggerusa.com/wp-content/uploads/2026/08/IMG_0885.jpeg"
+  ],
+  "images": [
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/08/IMG_0882.jpeg",
+      "path": "assets/products/ak-gas-piston-bottle-opener-keychain/01.jpeg",
+      "sha256": "545b02de116984f8d2c5c69efaf89b7383881efdb181d3cb0c79caccb3adaef4"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/08/IMG_0889.jpeg",
+      "path": "assets/products/ak-gas-piston-bottle-opener-keychain/02.jpeg",
+      "sha256": "71cc7da2f878b06f6d6a18f7b77a9cb58fcf3c7d5b99510c0bdb06ef4dee8bb0"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/08/IMG_0885.jpeg",
+      "path": "assets/products/ak-gas-piston-bottle-opener-keychain/03.jpeg",
+      "sha256": "e8637f53c1ad19d24e92c4db3694f23ce9f9bb04b9d42371e659348bab5c2018"
+    }
+  ]
+}

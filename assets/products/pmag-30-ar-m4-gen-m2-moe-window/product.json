@@ -1,0 +1,47 @@
+{
+  "name": "PMAG® 30 AR/M4 GEN M2 MOE® Window",
+  "slug": "pmag-30-ar-m4-gen-m2-moe-window",
+  "source_url": "https://texastriggerusa.com/product/pmag-30-ar-m4-gen-m2-moe-window/",
+  "canonical_url": "https://texastriggerusa.com/product/pmag-30-ar-m4-gen-m2-moe-window/",
+  "regular_price": "$ 15.99",
+  "sale_price": "",
+  "short_description_text": "",
+  "short_description_html": "",
+  "description_text": "Built for Reliability. Ready for Every Round. The Magpul PMAG 30 AR/M4 GEN M2 MOE Window Magazine combines proven reliability with a lightweight, impact-resistant polymer design built to handle demanding conditions.",
+  "description_html": "<strong>Built for Reliability. Ready for Every Round.</strong>\r\n\r\nThe Magpul PMAG 30 AR/M4 GEN M2 MOE Window Magazine combines proven reliability with a lightweight, impact-resistant polymer design built to handle demanding conditions.",
+  "categories": [
+    "Magazines"
+  ],
+  "sku": "",
+  "attributes": {},
+  "compatibility_information": "",
+  "variations": {},
+  "gallery_source_urls": [
+    "https://texastriggerusa.com/wp-content/uploads/2026/07/mag570-blk_magpul_pmag_30_ar_m4_gen_m2_moe_window_01_1.jpg",
+    "https://texastriggerusa.com/wp-content/uploads/2026/07/mag570-blk_magpul_pmag_30_ar_m4_gen_m2_moe_window_02_1.jpg",
+    "https://texastriggerusa.com/wp-content/uploads/2026/07/mag570-blk_magpul_pmag_30_ar_m4_gen_m2_moe_window_03_1.jpg",
+    "https://texastriggerusa.com/wp-content/uploads/2026/07/mag570-blk_magpul_pmag_30_ar_m4_gen_m2_moe_window_05_1.jpg"
+  ],
+  "images": [
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/07/mag570-blk_magpul_pmag_30_ar_m4_gen_m2_moe_window_01_1.jpg",
+      "path": "assets/products/pmag-30-ar-m4-gen-m2-moe-window/01.jpg",
+      "sha256": "e9adaad5c4a60f8c87418198caeee3d6ff070f1481107abf4d8cf620c790083f"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/07/mag570-blk_magpul_pmag_30_ar_m4_gen_m2_moe_window_02_1.jpg",
+      "path": "assets/products/pmag-30-ar-m4-gen-m2-moe-window/02.jpg",
+      "sha256": "431a0487c1d720fd28693767d054cae4fd47cf631e116846df863ec19926f7d0"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/07/mag570-blk_magpul_pmag_30_ar_m4_gen_m2_moe_window_03_1.jpg",
+      "path": "assets/products/pmag-30-ar-m4-gen-m2-moe-window/03.jpg",
+      "sha256": "d0a4cc31c09cc9ac82b400abe4831d71458b9da062fa2971098cc3bc20c29cce"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/07/mag570-blk_magpul_pmag_30_ar_m4_gen_m2_moe_window_05_1.jpg",
+      "path": "assets/products/pmag-30-ar-m4-gen-m2-moe-window/04.jpg",
+      "sha256": "8f95aebb2599c1360e481bdd71d0384278ee5999d6216c191fdfd229bff2163a"
+    }
+  ]
+}

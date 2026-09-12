@@ -1,0 +1,40 @@
+{
+  "name": "UpLULA® universal pistol mag loader 9mm – .45ACP",
+  "slug": "uplula-universal-pistol-mag-loader-9mm-45acp",
+  "source_url": "https://texastriggerusa.com/product/uplula-universal-pistol-magazine-loader-9mm-45acp/",
+  "canonical_url": "https://texastriggerusa.com/product/uplula-universal-pistol-magazine-loader-9mm-45acp/",
+  "regular_price": "$ 34.95",
+  "sale_price": "",
+  "short_description_text": "",
+  "short_description_html": "",
+  "description_text": "UpLULA Universal Pistol Mag Loader – Load Faster, Save Your Thumbs Thumb-Loading Magazines Is a Punishment. Anyone who has loaded magazine after magazine knows how quickly sore thumbs can ruin a",
+  "description_html": "<h4>UpLULA Universal Pistol Mag Loader – Load Faster, Save Your Thumbs</h4>\r\n<h5>Thumb-Loading Magazines Is a Punishment.</h5>\r\n<p class=\"isSelectedEnd\">Anyone who has loaded magazine after magazine knows how quickly sore thumbs can ruin a",
+  "categories": [
+    "Accessories"
+  ],
+  "sku": "",
+  "attributes": {},
+  "compatibility_information": "",
+  "variations": {
+    "attribute_pa_color": [
+      "American Flag",
+      "Black"
+    ]
+  },
+  "gallery_source_urls": [
+    "https://texastriggerusa.com/wp-content/uploads/2026/06/Screenshot-2026-07-02-at-6.22.55-PM.png",
+    "https://texastriggerusa.com/wp-content/uploads/2026/06/uplula.avif"
+  ],
+  "images": [
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/06/Screenshot-2026-07-02-at-6.22.55-PM.png",
+      "path": "assets/products/uplula-universal-pistol-mag-loader-9mm-45acp/01.png",
+      "sha256": "90b4460d372f5a968b5e4f6ca8589eed5d206c927fed5963603be199e8e6bef5"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/06/uplula.avif",
+      "path": "assets/products/uplula-universal-pistol-mag-loader-9mm-45acp/02.bin",
+      "sha256": "6610ef518748fe3b61d52bb81fe84df1379be1412136e63d1b82859f719cb203"
+    }
+  ]
+}

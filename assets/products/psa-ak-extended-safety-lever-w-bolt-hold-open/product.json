@@ -1,0 +1,47 @@
+{
+  "name": "PSA AK Extended Safety Lever w/ Bolt Hold Open",
+  "slug": "psa-ak-extended-safety-lever-w-bolt-hold-open",
+  "source_url": "https://texastriggerusa.com/product/psa-ak-extended-safety-lever-w-bolt-hold-open/",
+  "canonical_url": "https://texastriggerusa.com/product/psa-ak-extended-safety-lever-w-bolt-hold-open/",
+  "regular_price": "$ 30.00",
+  "sale_price": "",
+  "short_description_text": "",
+  "short_description_html": "",
+  "description_text": "",
+  "description_html": "<div class=\"flex flex-col text-sm pb-25\"><article class=\"text-token-text-primary w-full focus:outline-none  has-data-writing-block:pointer-events-none has-data-writing-block:-mt-(--shadow-height) has-data-writing-block:pt-(--shadow-height) )&gt;*]:pointer-events-auto scroll-mt-\" dir=\"auto\" data-turn-id=\"request-WEB:2abfe74a-45a0-4f61-b123-0b9bc85b038b-0\" data-testid=\"conversation-turn-2\" data-scroll-anchor=\"true\" data-turn=\"assistant\">\r\n<div class=\"text-base my-auto mx-auto pb-10  @w-sm/main: @w-lg/main: px-(--thread-content-margin)\">\r\n<div class=\" @w-lg/main: mx-auto",
+  "categories": [
+    "FRTs"
+  ],
+  "sku": "",
+  "attributes": {},
+  "compatibility_information": "",
+  "variations": {},
+  "gallery_source_urls": [
+    "https://texastriggerusa.com/wp-content/uploads/2025/06/psaak_extended_1.png",
+    "https://texastriggerusa.com/wp-content/uploads/2025/06/psaak_extended_2.png",
+    "https://texastriggerusa.com/wp-content/uploads/2025/06/Untitled-design-1.png",
+    "https://texastriggerusa.com/wp-content/uploads/2025/06/Untitled-design-2.png"
+  ],
+  "images": [
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2025/06/psaak_extended_1.png",
+      "path": "assets/products/psa-ak-extended-safety-lever-w-bolt-hold-open/01.png",
+      "sha256": "2343c6962e21e17cd6ba9a6d7ce752840638b08b6e5530b7bd9c32649e66b7d7"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2025/06/psaak_extended_2.png",
+      "path": "assets/products/psa-ak-extended-safety-lever-w-bolt-hold-open/02.png",
+      "sha256": "d9a1ca31f1ce9f357f9451d8b72dc8c67adf519559639f36a9893460b70b80b8"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2025/06/Untitled-design-1.png",
+      "path": "assets/products/psa-ak-extended-safety-lever-w-bolt-hold-open/03.png",
+      "sha256": "2b4adbba6bf87920ab8f66db3a94f2dc4e3aafc3251d9bb5e0790f280da098bd"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2025/06/Untitled-design-2.png",
+      "path": "assets/products/psa-ak-extended-safety-lever-w-bolt-hold-open/04.png",
+      "sha256": "836ac6764f9eef459d0b7bf1268ff5dcc9a60796ebc0cccc5c8598263220a54e"
+    }
+  ]
+}

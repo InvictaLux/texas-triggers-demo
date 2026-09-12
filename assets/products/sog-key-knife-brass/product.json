@@ -1,0 +1,41 @@
+{
+  "name": "SOG Key Knife - Brass",
+  "slug": "sog-key-knife-brass",
+  "source_url": "https://texastriggerusa.com/product/key-knife-brass/",
+  "canonical_url": "https://texastriggerusa.com/product/key-knife-brass/",
+  "regular_price": "$ 18.86",
+  "sale_price": "",
+  "short_description_text": "",
+  "short_description_html": "",
+  "description_text": "",
+  "description_html": "<div class=\"  px-2 -mx-2 pb-8 -mb-8 print:\">\r\n<div data-test-render-count=\"2\">\r\n<div class=\"contents\">\r\n<div class=\"mb-1 mt-6 group\">\r\n<div class=\"flex flex-col items-end gap-1\">\r\n<div class=\"group relative inline-flex gap-2 bg-bg-300 rounded-xl pl-2.5 py-2.5 break-words text-text-100 transition-all max-w- flex-col",
+  "categories": [
+    "All Products"
+  ],
+  "sku": "",
+  "attributes": {},
+  "compatibility_information": "",
+  "variations": {},
+  "gallery_source_urls": [
+    "https://texastriggerusa.com/wp-content/uploads/2026/06/images-4.jpeg",
+    "https://texastriggerusa.com/wp-content/uploads/2026/06/images-3.jpeg",
+    "https://texastriggerusa.com/wp-content/uploads/2026/06/images-2.jpeg"
+  ],
+  "images": [
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/06/images-4.jpeg",
+      "path": "assets/products/sog-key-knife-brass/01.jpeg",
+      "sha256": "52443c18904158fe4ef91bdc6dfcfe36a720fbb039a0c0d6a6bfaa76cdc16092"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/06/images-3.jpeg",
+      "path": "assets/products/sog-key-knife-brass/02.jpeg",
+      "sha256": "cab6bca24ddf1665759300b2aee24452a9dc5249bc2a100e0a94f54148c4dbf2"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/06/images-2.jpeg",
+      "path": "assets/products/sog-key-knife-brass/03.jpeg",
+      "sha256": "9f171fcc1f45406229f3703763027130be4f038d3c1eb7eafeaef32d4af5edf6"
+    }
+  ]
+}

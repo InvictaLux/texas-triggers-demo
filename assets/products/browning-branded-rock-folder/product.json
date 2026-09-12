@@ -1,0 +1,70 @@
+{
+  "name": "Browning Branded Rock Folder",
+  "slug": "browning-branded-rock-folder",
+  "source_url": "https://texastriggerusa.com/product/branded-rock-folder/",
+  "canonical_url": "https://texastriggerusa.com/product/branded-rock-folder/",
+  "regular_price": "$ 31.30",
+  "sale_price": "",
+  "short_description_text": "",
+  "short_description_html": "",
+  "description_text": "Branded Rock Folder – Everyday Carry Folding Knife Ready for Whatever the Day Throws at You. A good everyday carry knife needs to handle more than one job. The Branded Rock",
+  "description_html": "<h4>Branded Rock Folder – Everyday Carry Folding Knife</h4>\r\n<h5>Ready for Whatever the Day Throws at You.</h5>\r\n<p class=\"isSelectedEnd\">A good everyday carry knife needs to handle more than one job. The <strong>Branded Rock",
+  "categories": [
+    "Accessories"
+  ],
+  "sku": "",
+  "attributes": {},
+  "compatibility_information": "",
+  "variations": {
+    "attribute_pa_color": [
+      "Black",
+      "Green"
+    ]
+  },
+  "gallery_source_urls": [
+    "https://texastriggerusa.com/wp-content/uploads/2026/06/101856548.webp",
+    "https://texastriggerusa.com/wp-content/uploads/2026/06/branded-rock-folder-black-3220514-s1-jpg.webp",
+    "https://texastriggerusa.com/wp-content/uploads/2026/06/branded-rock-folder-black-3220514-2-jpg.webp",
+    "https://texastriggerusa.com/wp-content/uploads/2026/06/branded-rock-folder-black-3220514-1-jpg.webp",
+    "https://texastriggerusa.com/wp-content/uploads/2026/06/branded-rock-folder-green-3220507-s1-jpg.webp",
+    "https://texastriggerusa.com/wp-content/uploads/2026/06/branded-rock-folder-green-3220507-2-jpg.webp",
+    "https://texastriggerusa.com/wp-content/uploads/2026/06/branded-rock-folder-green-3220507-1-jpg.webp"
+  ],
+  "images": [
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/06/101856548.webp",
+      "path": "assets/products/browning-branded-rock-folder/01.webp",
+      "sha256": "e169137b18974e4219d3ab6c4b8ff814b39de69a174706c72af494c5b4dbf446"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/06/branded-rock-folder-black-3220514-s1-jpg.webp",
+      "path": "assets/products/browning-branded-rock-folder/02.webp",
+      "sha256": "bea7ed9301a0b88e65a494714e5ae5344e65670a8239d67e532856109c30c62b"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/06/branded-rock-folder-black-3220514-2-jpg.webp",
+      "path": "assets/products/browning-branded-rock-folder/03.webp",
+      "sha256": "8a198d3f21fb55beb2f34252f61f806449a02c76a56e973c521e19ac58ac9930"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/06/branded-rock-folder-black-3220514-1-jpg.webp",
+      "path": "assets/products/browning-branded-rock-folder/04.webp",
+      "sha256": "9dbbb1024ac1e89fabd82ebb63764f53abd1285e1954582b613b080a6bf354b7"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/06/branded-rock-folder-green-3220507-s1-jpg.webp",
+      "path": "assets/products/browning-branded-rock-folder/05.webp",
+      "sha256": "2ff9a2322cf9762d3fe8b9c52aef956c45bd66c112794fa23f29484a61b03e33"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/06/branded-rock-folder-green-3220507-2-jpg.webp",
+      "path": "assets/products/browning-branded-rock-folder/06.webp",
+      "sha256": "a3a0ccd414fa9a0e473d56a456b8e5a059c167906aeb936b5aa8d16f0ebbbc03"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/06/branded-rock-folder-green-3220507-1-jpg.webp",
+      "path": "assets/products/browning-branded-rock-folder/07.webp",
+      "sha256": "3fba5027811fbbd3fe310ec6a43f9c73d873cefbcbc5856fbdbfd3220bb3e0cf"
+    }
+  ]
+}

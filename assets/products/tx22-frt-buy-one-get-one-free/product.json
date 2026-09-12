@@ -1,0 +1,35 @@
+{
+  "name": "TX22 FRT – Buy One Get One Free",
+  "slug": "tx22-frt-buy-one-get-one-free",
+  "source_url": "https://texastriggerusa.com/product/tx22-frt-buy-one-get-one-free/",
+  "canonical_url": "https://texastriggerusa.com/product/tx22-frt-buy-one-get-one-free/",
+  "regular_price": "$ 38.00",
+  "sale_price": "",
+  "short_description_text": "",
+  "short_description_html": "",
+  "description_text": "TX22 FRT | Taurus TX 22 Force Reset Trigger Ready to make your Taurus TX 22 even more fun at the range? The TX22 FRT from Texas Trigger is a true",
+  "description_html": "<strong>TX22 FRT | Taurus TX 22 Force Reset Trigger</strong>\r\n\r\nReady to make your Taurus TX 22 even more fun at the range? The TX22 FRT from Texas Trigger is a true",
+  "categories": [
+    "FRTs"
+  ],
+  "sku": "",
+  "attributes": {},
+  "compatibility_information": "",
+  "variations": {},
+  "gallery_source_urls": [
+    "https://texastriggerusa.com/wp-content/uploads/2026/03/Blank.png",
+    "https://texastriggerusa.com/wp-content/uploads/2025/12/IMG_7948.jpg"
+  ],
+  "images": [
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/03/Blank.png",
+      "path": "assets/products/tx22-frt-buy-one-get-one-free/01.png",
+      "sha256": "100d303103bbc7efbd8ebe13154623c51c9cf9d1bac010094bc31f5d23faf35a"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2025/12/IMG_7948.jpg",
+      "path": "assets/products/tx22-frt-buy-one-get-one-free/02.jpg",
+      "sha256": "fc990408a03988d6a79c6250b646b3a27949ea238290eb02194344fdaef36173"
+    }
+  ]
+}

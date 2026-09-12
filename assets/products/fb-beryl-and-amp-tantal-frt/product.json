@@ -1,0 +1,47 @@
+{
+  "name": "FB Beryl &amp; Tantal FRT",
+  "slug": "fb-beryl-and-amp-tantal-frt",
+  "source_url": "https://texastriggerusa.com/product/fb-beryl-frt-forced-reset-trigger/",
+  "canonical_url": "https://texastriggerusa.com/product/fb-beryl-frt-forced-reset-trigger/",
+  "regular_price": "$ 250.00",
+  "sale_price": "",
+  "short_description_text": "",
+  "short_description_html": "",
+  "description_text": "Beryl and Tantal FRT | Force Reset Trigger The Beryl and Tantal FRT brings Force Reset Trigger technology to compatible Polish AK variants.",
+  "description_html": "<h4 class=\"PDq2pG_selectionAnchorContainer\" data-section-id=\"tewbds\" data-start=\"198\" data-end=\"243\">Beryl and Tantal FRT | Force Reset Trigger</h4>\r\n<p data-start=\"245\" data-end=\"476\">The <strong data-start=\"249\" data-end=\"273\">Beryl and Tantal FRT</strong> brings Force Reset Trigger technology to compatible Polish AK variants.",
+  "categories": [
+    "FRTs"
+  ],
+  "sku": "",
+  "attributes": {},
+  "compatibility_information": "Beryl and Tantal FRT | Force Reset Trigger The Beryl and Tantal FRT brings Force Reset Trigger technology to compatible Polish AK variants.",
+  "variations": {},
+  "gallery_source_urls": [
+    "https://texastriggerusa.com/wp-content/uploads/2025/12/Beryl.jpg",
+    "https://texastriggerusa.com/wp-content/uploads/2025/12/pixelcut-export-1.png",
+    "https://texastriggerusa.com/wp-content/uploads/2025/10/IMG_7539.jpg",
+    "https://texastriggerusa.com/wp-content/uploads/2025/10/buffer.png"
+  ],
+  "images": [
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2025/12/Beryl.jpg",
+      "path": "assets/products/fb-beryl-and-amp-tantal-frt/01.jpg",
+      "sha256": "21a32f8f4caf8e9096ab873dd089b65e8f025cb7658796e99495f993df926d80"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2025/12/pixelcut-export-1.png",
+      "path": "assets/products/fb-beryl-and-amp-tantal-frt/02.png",
+      "sha256": "a891284ea92933ffa9a84bf7ff3a2a1ba19041afcb87f6a7b51324324dfa83c1"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2025/10/IMG_7539.jpg",
+      "path": "assets/products/fb-beryl-and-amp-tantal-frt/03.jpg",
+      "sha256": "a158ee2050effd5b55245481ce36c2711970f66fade80592538fcc98ccd6aaf7"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2025/10/buffer.png",
+      "duplicate_of": "assets/products/ak-recoil-buffer/01.png",
+      "sha256": "e9306e91765e6aad81b8a1a03fb69b2aa68406663d36437fc1ea35a167a44952"
+    }
+  ]
+}

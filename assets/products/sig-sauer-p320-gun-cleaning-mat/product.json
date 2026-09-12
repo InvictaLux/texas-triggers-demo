@@ -1,0 +1,53 @@
+{
+  "name": "Sig Sauer P320 - Gun Cleaning Mat",
+  "slug": "sig-sauer-p320-gun-cleaning-mat",
+  "source_url": "https://texastriggerusa.com/product/sig-sauer-p320-ultra-premium-gun-cleaning-mat/",
+  "canonical_url": "https://texastriggerusa.com/product/sig-sauer-p320-ultra-premium-gun-cleaning-mat/",
+  "regular_price": "$ 15.99",
+  "sale_price": "",
+  "short_description_text": "",
+  "short_description_html": "",
+  "description_text": "P320 Cleaning Mat | TekMat Ultra 20 SIG Sauer P320 Diagram Mat Give your SIG Sauer P320 a proper workspace. The P320 Cleaning",
+  "description_html": "<h4 class=\"PDq2pG_selectionAnchorContainer\" data-section-id=\"aeluca\" data-start=\"0\" data-end=\"65\">P320 Cleaning Mat | TekMat Ultra 20 SIG Sauer P320 Diagram Mat</h4>\r\n<p data-start=\"67\" data-end=\"280\">Give your SIG Sauer P320 a proper workspace. The <strong data-start=\"116\" data-end=\"137\">P320 Cleaning",
+  "categories": [
+    "Accessories"
+  ],
+  "sku": "",
+  "attributes": {},
+  "compatibility_information": "",
+  "variations": {},
+  "gallery_source_urls": [
+    "https://texastriggerusa.com/wp-content/uploads/2026/08/20-SIGP320-1__77240.jpg",
+    "https://texastriggerusa.com/wp-content/uploads/2026/08/20-SIGP320-2__82773.jpg",
+    "https://texastriggerusa.com/wp-content/uploads/2026/08/20-SIGP320-5__32827.jpg",
+    "https://texastriggerusa.com/wp-content/uploads/2026/08/20-SIGP320-6__36822.jpg",
+    "https://texastriggerusa.com/wp-content/uploads/2026/08/20-SIGP320-4__57280.jpg"
+  ],
+  "images": [
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/08/20-SIGP320-1__77240.jpg",
+      "path": "assets/products/sig-sauer-p320-gun-cleaning-mat/01.jpg",
+      "sha256": "af9c602390f89c3fa49ae9e3424e1d52d0e2f83675cc39b543c584b43385b4f9"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/08/20-SIGP320-2__82773.jpg",
+      "path": "assets/products/sig-sauer-p320-gun-cleaning-mat/02.jpg",
+      "sha256": "b84a4c5a936ed16577764605c333b2d3c8efa6a11459c618be2633368b7b9963"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/08/20-SIGP320-5__32827.jpg",
+      "path": "assets/products/sig-sauer-p320-gun-cleaning-mat/03.jpg",
+      "sha256": "c6119a4f0aa86166d8b3f0b007e8cc533c8d9e36b6d7c46a5b9c8f290d9ce1c8"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/08/20-SIGP320-6__36822.jpg",
+      "path": "assets/products/sig-sauer-p320-gun-cleaning-mat/04.jpg",
+      "sha256": "9e0c58f3c00047362b9c805bf6d77ea04e8f160eda83984284e4f6c922ab20a7"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/08/20-SIGP320-4__57280.jpg",
+      "path": "assets/products/sig-sauer-p320-gun-cleaning-mat/05.jpg",
+      "sha256": "2054ecc5962685921c44b26c97a9b4c36c7e5214f677f51fbe52e9afe7feec93"
+    }
+  ]
+}

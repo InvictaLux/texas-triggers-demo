@@ -1,0 +1,35 @@
+{
+  "name": "KCI 9mm 15-Round Polymer Magazine for Glock Pistols",
+  "slug": "kci-9mm-15-round-polymer-magazine-for-glock-pistols",
+  "source_url": "https://texastriggerusa.com/product/glock-19-26-15rd-magazine/",
+  "canonical_url": "https://texastriggerusa.com/product/glock-19-26-15rd-magazine/",
+  "regular_price": "$ 14.99",
+  "sale_price": "",
+  "short_description_text": "",
+  "short_description_html": "",
+  "description_text": "15 Rd Magazine for Glock – KCI USA Glock 19 Magazine Reliable Performance. Glock-Compatible Fit. Keep your Glock® 19 ready for the range with the KCI USA 15 rd magazine for",
+  "description_html": "<h4>15 Rd Magazine for Glock – KCI USA Glock 19 Magazine</h4>\r\n<h5>Reliable Performance. Glock-Compatible Fit.</h5>\r\n<p class=\"isSelectedEnd\">Keep your Glock® 19 ready for the range with the KCI USA <strong>15 rd magazine for",
+  "categories": [
+    "Magazines"
+  ],
+  "sku": "",
+  "attributes": {},
+  "compatibility_information": "Glock-Compatible Fit.",
+  "variations": {},
+  "gallery_source_urls": [
+    "https://texastriggerusa.com/wp-content/uploads/2026/07/kci-9mm-15-round-polymer-magazine-for-glock-19-pistols-4.webp",
+    "https://texastriggerusa.com/wp-content/uploads/2026/07/kci-9mm-15-round-polymer-magazine-for-glock-19-pistols.webp"
+  ],
+  "images": [
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/07/kci-9mm-15-round-polymer-magazine-for-glock-19-pistols-4.webp",
+      "path": "assets/products/kci-9mm-15-round-polymer-magazine-for-glock-pistols/01.webp",
+      "sha256": "898b1e3e7f714bf8b9ea815c18f8468023368adee0d73fcc9cc606049d460c1e"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/07/kci-9mm-15-round-polymer-magazine-for-glock-19-pistols.webp",
+      "path": "assets/products/kci-9mm-15-round-polymer-magazine-for-glock-pistols/02.webp",
+      "sha256": "0cc28fa9bf7b6a003f391964bd3be0c3ff0f345ac8cc06753611e243b640eb7f"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Magpul MOE AK Stock",
+  "slug": "magpul-moe-ak-stock",
+  "source_url": "https://texastriggerusa.com/product/magpul-moe-stock-fixed-black-synthetic-for-ak-platform/",
+  "canonical_url": "https://texastriggerusa.com/product/magpul-moe-stock-fixed-black-synthetic-for-ak-platform/",
+  "regular_price": "$ 59.95",
+  "sale_price": "",
+  "short_description_text": "",
+  "short_description_html": "",
+  "description_text": "Magpul AK Stock | MOE Fixed Stock for Stamped AK Rifles Simple, solid, and built for the AK platform. The Magpul AK Stock gives your stamped-receiver AK a modern upgrade",
+  "description_html": "<h4>Magpul AK Stock | MOE Fixed Stock for Stamped AK Rifles</h4>\r\n<p class=\"isSelectedEnd\"><strong>Simple, solid, and built for the AK platform.</strong></p>\r\n<p class=\"isSelectedEnd\">The <strong>Magpul AK Stock</strong> gives your stamped-receiver AK a modern upgrade",
+  "categories": [
+    "Accessories"
+  ],
+  "sku": "",
+  "attributes": {},
+  "compatibility_information": "Magpul AK Stock | MOE Fixed Stock for Stamped AK Rifles Simple, solid, and built for the AK platform.",
+  "variations": {},
+  "gallery_source_urls": [
+    "https://texastriggerusa.com/wp-content/uploads/2026/03/mag616-blk_magpul_moe_ak_stock_01.jpg",
+    "https://texastriggerusa.com/wp-content/uploads/2026/03/mag616-blk_magpul_moe_ak_stock_02.jpg",
+    "https://texastriggerusa.com/wp-content/uploads/2026/03/mag616-blk_magpul_moe_ak_stock_03.jpg",
+    "https://texastriggerusa.com/wp-content/uploads/2026/03/mag616-blk_magpul_moe_ak_stock_04.jpg"
+  ],
+  "images": [
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/03/mag616-blk_magpul_moe_ak_stock_01.jpg",
+      "path": "assets/products/magpul-moe-ak-stock/01.jpg",
+      "sha256": "8a96e8522601e7b77489499ee7645680c03c994f5ff7b229d7130466090bf72b"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/03/mag616-blk_magpul_moe_ak_stock_02.jpg",
+      "path": "assets/products/magpul-moe-ak-stock/02.jpg",
+      "sha256": "b0d1de8d4086f7133ae2a2cae7dcd1cfcd35bde833e43220de59e6ee162147f8"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/03/mag616-blk_magpul_moe_ak_stock_03.jpg",
+      "path": "assets/products/magpul-moe-ak-stock/03.jpg",
+      "sha256": "88ad4d3503aaeb8fb190d90924e835810d86913548d3272b003bb97ef2304020"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/03/mag616-blk_magpul_moe_ak_stock_04.jpg",
+      "path": "assets/products/magpul-moe-ak-stock/04.jpg",
+      "sha256": "a5878a8c8bbcdf348d73e6b84fc6ed0a895181b0259a63a9d807105093548201"
+    }
+  ]
+}

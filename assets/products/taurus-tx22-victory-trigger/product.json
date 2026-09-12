@@ -1,0 +1,40 @@
+{
+  "name": "Taurus TX22 Victory Trigger",
+  "slug": "taurus-tx22-victory-trigger",
+  "source_url": "https://texastriggerusa.com/product/taurus-tx22-victory-trigger/",
+  "canonical_url": "https://texastriggerusa.com/product/taurus-tx22-victory-trigger/",
+  "regular_price": "$ 65.50",
+  "sale_price": "",
+  "short_description_text": "",
+  "short_description_html": "",
+  "description_text": "",
+  "description_html": "<div class=\"\" data-turn-id-container=\"597877f3-c79a-4e86-84bb-74b8cd9a6229\" data-is-intersecting=\"true\"><section class=\"text-token-text-primary w-full focus:outline-none has-data-writing-block:pointer-events-none )&gt;*]:pointer-events-auto R6Vx5W_threadScrollVars scroll-mb- scroll-mt-(--sticky-padding-top)\" dir=\"auto\" data-turn-id=\"597877f3-c79a-4e86-84bb-74b8cd9a6229\" data-turn-id-container=\"597877f3-c79a-4e86-84bb-74b8cd9a6229\" data-testid=\"conversation-turn-3\" data-turn=\"user\">\r\n<div class=\"text-base my-auto mx-auto pt-12  @w-sm/main: @w-lg/main: px-(--thread-content-margin)\">\r\n<div class=\" @w-lg/main: mx-auto max-w-(--thread-content-max-width) flex-1",
+  "categories": [
+    "Accessories"
+  ],
+  "sku": "",
+  "attributes": {},
+  "compatibility_information": "",
+  "variations": {
+    "attribute_pa_color": [
+      "Black",
+      "Red"
+    ]
+  },
+  "gallery_source_urls": [
+    "https://texastriggerusa.com/wp-content/uploads/2026/07/opplanet-tandemkross-victory-trigger-taurus-tx-22-flat-faced-skeletonized-black-tk31n0430blk1-main-1.webp",
+    "https://texastriggerusa.com/wp-content/uploads/2026/07/opplanet-tandemkross-victory-trigger-taurus-tx-22-flat-faced-skeletonized-red-tk31n0430red1-main.webp"
+  ],
+  "images": [
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/07/opplanet-tandemkross-victory-trigger-taurus-tx-22-flat-faced-skeletonized-black-tk31n0430blk1-main-1.webp",
+      "path": "assets/products/taurus-tx22-victory-trigger/01.webp",
+      "sha256": "dcbfb9bf7504cdca5258c539f10b7fe07a909e100f16eaad8135b6df1389ab3a"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/07/opplanet-tandemkross-victory-trigger-taurus-tx-22-flat-faced-skeletonized-red-tk31n0430red1-main.webp",
+      "path": "assets/products/taurus-tx22-victory-trigger/02.webp",
+      "sha256": "d884872d5d339604460663de16a977cdf745dc8bddc5ca0c4f4f8bfc4442c22e"
+    }
+  ]
+}

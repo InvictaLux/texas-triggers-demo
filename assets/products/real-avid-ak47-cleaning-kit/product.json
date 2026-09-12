@@ -1,0 +1,47 @@
+{
+  "name": "Real Avid AK47 Cleaning Kit",
+  "slug": "real-avid-ak47-cleaning-kit",
+  "source_url": "https://texastriggerusa.com/product/ak47-cleaning-kit/",
+  "canonical_url": "https://texastriggerusa.com/product/ak47-cleaning-kit/",
+  "regular_price": "$ 49.98",
+  "sale_price": "",
+  "short_description_text": "",
+  "short_description_html": "",
+  "description_text": "Everything You Need. Ready for Your AK. A reliable rifle starts with proper maintenance. Whether you shoot your AK-47 at the range, train regularly, or rely on it for hard use,",
+  "description_html": "<h4>Everything You Need. Ready for Your AK.</h4>\r\nA reliable rifle starts with proper maintenance. Whether you shoot your AK-47 at the range, train regularly, or rely on it for hard use,",
+  "categories": [
+    "Accessories"
+  ],
+  "sku": "",
+  "attributes": {},
+  "compatibility_information": "",
+  "variations": {},
+  "gallery_source_urls": [
+    "https://texastriggerusa.com/wp-content/uploads/2026/07/AVGCKAK47_Gun-Boss-AK47_001.webp",
+    "https://texastriggerusa.com/wp-content/uploads/2026/07/AVGCKAK47_Gun-Boss-AK47_002.webp",
+    "https://texastriggerusa.com/wp-content/uploads/2026/07/AVGCKAK47_Gun-Boss-AK47_0013.webp",
+    "https://texastriggerusa.com/wp-content/uploads/2026/07/AVGCKAK47_Gun-Boss-AK47_0012.webp"
+  ],
+  "images": [
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/07/AVGCKAK47_Gun-Boss-AK47_001.webp",
+      "path": "assets/products/real-avid-ak47-cleaning-kit/01.webp",
+      "sha256": "56847434168f9ead20bfaaa7408dc9dff1b37b9565cdb2c1ba117467a85cc0cf"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/07/AVGCKAK47_Gun-Boss-AK47_002.webp",
+      "path": "assets/products/real-avid-ak47-cleaning-kit/02.webp",
+      "sha256": "89fa70b7fcac76fd099696d857b2c4283c13ec3f24faf88508b94f1ab6f65da3"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/07/AVGCKAK47_Gun-Boss-AK47_0013.webp",
+      "path": "assets/products/real-avid-ak47-cleaning-kit/03.webp",
+      "sha256": "92ec7856b04c65249abb27e1c1747d66210126e30619b062db203128b7674178"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/07/AVGCKAK47_Gun-Boss-AK47_0012.webp",
+      "path": "assets/products/real-avid-ak47-cleaning-kit/04.webp",
+      "sha256": "fcfb6295601ad6435f2e5954590f688df27b7eeae83de5de3e3ece2a8cf3d535"
+    }
+  ]
+}

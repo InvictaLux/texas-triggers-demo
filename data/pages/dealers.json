@@ -1,0 +1,26 @@
+{
+  "researched_at": "2026-09-11",
+  "first_party_source": "https://texastriggerusa.com/contact-us/",
+  "wholesale": {
+    "contact_name": "Olivia",
+    "email": "olivia@texastriggerusa.com",
+    "scope": "New dealer accounts, minimum order quantities, and existing dealer order questions."
+  },
+  "installation_dealers": [
+    {
+      "name": "Arms of America",
+      "url": "https://armsofamerica.com/diablo-trigger-ak-47-frt-forced-reset-trigger/",
+      "evidence": "Named by Texas Triggers as an authorized dealer whose staff is trained on Texas Triggers installs and offers installation services on select platforms."
+    },
+    {
+      "name": "Iron Curtain Customs",
+      "url": "https://ironcurtaincustoms.com/products/texas-triggers-diablo-trigger-ak-47-trigger-assisted-reset-system-t-a-r-s",
+      "evidence": "Named by Texas Triggers as an authorized dealer whose staff is trained on Texas Triggers installs and offers installation services on select platforms."
+    }
+  ],
+  "installation_disclaimer": "Installation services from these dealers are performed independently and are not covered under the Texas Triggers warranty. Contact the dealer directly for pricing, availability, and platform compatibility.",
+  "promoters": {
+    "email": "outreach@texastriggerusa.com",
+    "instructions": "Include your social handle or handles. This inbox is for promoter and creator inquiries, not dealer, consumer, or order support."
+  }
+}

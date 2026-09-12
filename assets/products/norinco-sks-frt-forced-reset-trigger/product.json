@@ -1,0 +1,35 @@
+{
+  "name": "Norinco SKS FRT (Forced Reset Trigger)",
+  "slug": "norinco-sks-frt-forced-reset-trigger",
+  "source_url": "https://texastriggerusa.com/product/norinco-sks-7-62x39-frt/",
+  "canonical_url": "https://texastriggerusa.com/product/norinco-sks-7-62x39-frt/",
+  "regular_price": "$ 225.00",
+  "sale_price": "",
+  "short_description_text": "",
+  "short_description_html": "",
+  "description_text": "Introducing the Norinco SKS 7.62×39 FRT — Plug-and-Play Forced Reset Trigger. No tools, no gunsmith, no headaches. It's time to dust off your Norinco and bring back that nostalgia… but this",
+  "description_html": "<strong>Introducing the Norinco SKS 7.62×39 FRT — Plug-and-Play Forced Reset Trigger. No tools, no gunsmith, no headaches.</strong>\r\n\r\nIt's time to dust off your Norinco and bring back that nostalgia… but this",
+  "categories": [
+    "FRTs"
+  ],
+  "sku": "",
+  "attributes": {},
+  "compatibility_information": "",
+  "variations": {},
+  "gallery_source_urls": [
+    "https://texastriggerusa.com/wp-content/uploads/2026/03/IMG_9390.png",
+    "https://texastriggerusa.com/wp-content/uploads/2026/03/IMG_0161.jpeg"
+  ],
+  "images": [
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/03/IMG_9390.png",
+      "path": "assets/products/norinco-sks-frt-forced-reset-trigger/01.png",
+      "sha256": "381c3dc618bb0512e833751e35f3ad8bc7dd7f431c53d0ea409cc7ad0942fb98"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/03/IMG_0161.jpeg",
+      "path": "assets/products/norinco-sks-frt-forced-reset-trigger/02.jpeg",
+      "sha256": "b79e0086ba7042fb282c769684eb4c1ceaf05edb6bd5d04cd6617b24cc8235b0"
+    }
+  ]
+}

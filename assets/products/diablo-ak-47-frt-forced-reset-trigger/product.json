@@ -1,0 +1,35 @@
+{
+  "name": "Diablo AK-47 FRT (Forced Reset Trigger)",
+  "slug": "diablo-ak-47-frt-forced-reset-trigger",
+  "source_url": "https://texastriggerusa.com/product/diablo-trigger-ak-47-forced-reset-trigger-frt/",
+  "canonical_url": "https://texastriggerusa.com/product/diablo-trigger-ak-47-forced-reset-trigger-frt/",
+  "regular_price": "$ 225.00",
+  "sale_price": "",
+  "short_description_text": "",
+  "short_description_html": "",
+  "description_text": "Diablo AK-47 FRT (Forced Reset Trigger) The Diablo Trigger AK-47 FRT is the world's first patented AK-47 FRT. The system uses a mechanical trigger reset on one of the most popular",
+  "description_html": "<h2>Diablo AK-47 FRT (Forced Reset Trigger)</h2>\r\nThe Diablo Trigger AK-47 FRT is the world's first patented AK-47 FRT. The system uses a mechanical trigger reset on one of the most popular",
+  "categories": [
+    "FRTs"
+  ],
+  "sku": "",
+  "attributes": {},
+  "compatibility_information": "",
+  "variations": {},
+  "gallery_source_urls": [
+    "https://texastriggerusa.com/wp-content/uploads/2025/12/IMG_8511.png",
+    "https://texastriggerusa.com/wp-content/uploads/2025/12/IMG_8547.png"
+  ],
+  "images": [
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2025/12/IMG_8511.png",
+      "path": "assets/products/diablo-ak-47-frt-forced-reset-trigger/01.png",
+      "sha256": "e5458654032da136a9682fa79f0cbac24e9df833300473cb604111238637ce77"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2025/12/IMG_8547.png",
+      "path": "assets/products/diablo-ak-47-frt-forced-reset-trigger/02.png",
+      "sha256": "634b75569cbf7aecc9c9ee95d99e63c61982bd63cd2e41b9ccf38fbc865f0749"
+    }
+  ]
+}

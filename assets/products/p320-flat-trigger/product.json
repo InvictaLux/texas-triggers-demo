@@ -1,0 +1,41 @@
+{
+  "name": "P320 Flat Trigger",
+  "slug": "p320-flat-trigger",
+  "source_url": "https://texastriggerusa.com/product/p320-flat-trigger/",
+  "canonical_url": "https://texastriggerusa.com/product/p320-flat-trigger/",
+  "regular_price": "$ 49.99",
+  "sale_price": "",
+  "short_description_text": "",
+  "short_description_html": "",
+  "description_text": "SIG Sauer® P320 Flat Trigger – Factory OEM Upgrade Upgrade your pistol with a genuine P320 flat trigger from SIG Sauer®. This factory OEM trigger replaces the standard curved trigger",
+  "description_html": "<h4>SIG Sauer® P320 Flat Trigger – Factory OEM Upgrade</h4>\r\n<p class=\"isSelectedEnd\">Upgrade your pistol with a genuine <strong>P320 flat trigger</strong> from SIG Sauer®. This factory OEM trigger replaces the standard curved trigger",
+  "categories": [
+    "Accessories"
+  ],
+  "sku": "",
+  "attributes": {},
+  "compatibility_information": "",
+  "variations": {},
+  "gallery_source_urls": [
+    "https://texastriggerusa.com/wp-content/uploads/2026/08/p320-flat-trigger_.jpg",
+    "https://texastriggerusa.com/wp-content/uploads/2026/08/p320-flat-trigger-1.jpg",
+    "https://texastriggerusa.com/wp-content/uploads/2026/08/p320-flat-trigger-2.jpg"
+  ],
+  "images": [
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/08/p320-flat-trigger_.jpg",
+      "path": "assets/products/p320-flat-trigger/01.jpg",
+      "sha256": "569dc0216781b942397244e3c7e7d5e146fde18efd807550fef4efaa455f6ae9"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/08/p320-flat-trigger-1.jpg",
+      "path": "assets/products/p320-flat-trigger/02.jpg",
+      "sha256": "6a7be529b3f6bbf6c06c300d35aed974550d3b7ce76a61935421e59441637f0d"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/08/p320-flat-trigger-2.jpg",
+      "path": "assets/products/p320-flat-trigger/03.jpg",
+      "sha256": "ba8bd8f9221227a59765f9cab05a40afa86542a526a4f885239d204ca7c81a58"
+    }
+  ]
+}

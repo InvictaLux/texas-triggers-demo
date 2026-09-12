@@ -1,0 +1,47 @@
+{
+  "name": "CRKT Berserker™ Axe",
+  "slug": "crkt-berserker-axe",
+  "source_url": "https://texastriggerusa.com/product/berserker-axe/",
+  "canonical_url": "https://texastriggerusa.com/product/berserker-axe/",
+  "regular_price": "$ 84.70",
+  "sale_price": "",
+  "short_description_text": "",
+  "short_description_html": "",
+  "description_text": "Berserker Axe | Viking-Style Bearded Axe A battle cry in axe form. The Berserker Axe brings traditional Viking-inspired design together with materials made for real work. With its distinctive bearded",
+  "description_html": "<h4>Berserker Axe | Viking-Style Bearded Axe</h4>\r\n<p class=\"isSelectedEnd\"><strong>A battle cry in axe form.</strong></p>\r\n<p class=\"isSelectedEnd\">The <strong>Berserker Axe</strong> brings traditional Viking-inspired design together with materials made for real work. With its distinctive bearded",
+  "categories": [
+    "Accessories"
+  ],
+  "sku": "",
+  "attributes": {},
+  "compatibility_information": "",
+  "variations": {},
+  "gallery_source_urls": [
+    "https://texastriggerusa.com/wp-content/uploads/2026/06/cenvif8mhgcxskshyn9s__94628.webp",
+    "https://texastriggerusa.com/wp-content/uploads/2026/06/xdn5bo5i5xzxeoh63psg__49338.webp",
+    "https://texastriggerusa.com/wp-content/uploads/2026/06/pjepnospaeozh5zhobaw__07389.webp",
+    "https://texastriggerusa.com/wp-content/uploads/2026/06/abiv0c5iotubvtxxmybj__58118.webp"
+  ],
+  "images": [
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/06/cenvif8mhgcxskshyn9s__94628.webp",
+      "path": "assets/products/crkt-berserker-axe/01.webp",
+      "sha256": "0fb7ca64ec569d34522291c695d1664ac9473cd21224cc96da99184b3eee6409"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/06/xdn5bo5i5xzxeoh63psg__49338.webp",
+      "path": "assets/products/crkt-berserker-axe/02.webp",
+      "sha256": "87f7bb3290809724942ed55e6c29ad399b4d7d64dd484a7cbaec877957f38a33"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/06/pjepnospaeozh5zhobaw__07389.webp",
+      "path": "assets/products/crkt-berserker-axe/03.webp",
+      "sha256": "4bba4f734e0dab068a4b739ff4f48311a62c6808970f233378714f681a97ac65"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/06/abiv0c5iotubvtxxmybj__58118.webp",
+      "path": "assets/products/crkt-berserker-axe/04.webp",
+      "sha256": "b25ab54a9a795ef4b843a3b9d217f6737548f5863b2c5e0fffea3c5df009d453"
+    }
+  ]
+}

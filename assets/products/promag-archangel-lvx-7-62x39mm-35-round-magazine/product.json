@@ -1,0 +1,35 @@
+{
+  "name": "ProMag Archangel LVX 7.62x39mm 35-Round Magazine",
+  "slug": "promag-archangel-lvx-7-62x39mm-35-round-magazine",
+  "source_url": "https://texastriggerusa.com/product/promag-archangel-lvx-7-62x39mm-35-round-magazine/",
+  "canonical_url": "https://texastriggerusa.com/product/promag-archangel-lvx-7-62x39mm-35-round-magazine/",
+  "regular_price": "$ 44.98",
+  "sale_price": "",
+  "short_description_text": "",
+  "short_description_html": "",
+  "description_text": "SKS Magazine | ProMag Archangel LVX 35-Round 7.62x39 Magazine More rounds. Less time reloading. The ProMag Archangel LVX SKS Magazine gives your compatible SKS rifle a 35-round capacity without adding",
+  "description_html": "<h4>SKS Magazine | ProMag Archangel LVX 35-Round 7.62x39 Magazine</h4>\r\n<p class=\"isSelectedEnd\"><strong>More rounds. Less time reloading.</strong></p>\r\n<p class=\"isSelectedEnd\">The <strong>ProMag Archangel LVX SKS Magazine</strong> gives your compatible SKS rifle a 35-round capacity without adding",
+  "categories": [
+    "Magazines"
+  ],
+  "sku": "",
+  "attributes": {},
+  "compatibility_information": "The ProMag Archangel LVX SKS Magazine gives your compatible SKS rifle a 35-round capacity without adding",
+  "variations": {},
+  "gallery_source_urls": [
+    "https://texastriggerusa.com/wp-content/uploads/2026/06/promag-archangel-lvx-7-62x39mm-35-round-magazine-right.webp",
+    "https://texastriggerusa.com/wp-content/uploads/2026/06/promag-archangel-lvx-7-62x39mm-35-round-magazine-left.webp"
+  ],
+  "images": [
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/06/promag-archangel-lvx-7-62x39mm-35-round-magazine-right.webp",
+      "path": "assets/products/promag-archangel-lvx-7-62x39mm-35-round-magazine/01.webp",
+      "sha256": "afa354292eb54512f8e59beafd812fbfafcf82deeb509e419dd08985bd7392f8"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/06/promag-archangel-lvx-7-62x39mm-35-round-magazine-left.webp",
+      "path": "assets/products/promag-archangel-lvx-7-62x39mm-35-round-magazine/02.webp",
+      "sha256": "d3d3628a069a8373ef0939f844a839e486306b12d435e09138cc7d107049e5d9"
+    }
+  ]
+}

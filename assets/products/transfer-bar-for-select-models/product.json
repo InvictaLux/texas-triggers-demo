@@ -1,0 +1,41 @@
+{
+  "name": "Transfer Bar for Select Models",
+  "slug": "transfer-bar-for-select-models",
+  "source_url": "https://texastriggerusa.com/product/transfer-bar-for-select-models/",
+  "canonical_url": "https://texastriggerusa.com/product/transfer-bar-for-select-models/",
+  "regular_price": "$ 25.00",
+  "sale_price": "",
+  "short_description_text": "",
+  "short_description_html": "",
+  "description_text": "Transfer Bar | Diablo Trigger Compatibility Upgrade The transfer bar is a required upgrade for certain AK-pattern rifles using the Diablo",
+  "description_html": "<h4 class=\"PDq2pG_selectionAnchorContainer\" data-section-id=\"qhcfe0\" data-start=\"0\" data-end=\"54\">Transfer Bar | Diablo Trigger Compatibility Upgrade</h4>\r\n<p data-start=\"56\" data-end=\"429\">The <strong data-start=\"60\" data-end=\"76\">transfer bar</strong> is a required upgrade for certain AK-pattern rifles using the <strong data-start=\"139\" data-end=\"157\">Diablo",
+  "categories": [
+    "FRTs"
+  ],
+  "sku": "",
+  "attributes": {},
+  "compatibility_information": "Transfer Bar | Diablo Trigger Compatibility Upgrade The transfer bar is a required upgrade for certain AK-pattern rifles using the Diablo",
+  "variations": {},
+  "gallery_source_urls": [
+    "https://texastriggerusa.com/wp-content/uploads/2025/10/TransferBar_1.png",
+    "https://texastriggerusa.com/wp-content/uploads/2025/10/TransferBar_2.png",
+    "https://texastriggerusa.com/wp-content/uploads/2025/10/TransferBar_3.png"
+  ],
+  "images": [
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2025/10/TransferBar_1.png",
+      "path": "assets/products/transfer-bar-for-select-models/01.png",
+      "sha256": "adf45c24a01e7adf630d53c02953d8a0fe885aa70048725e80c3a8a20ba6956e"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2025/10/TransferBar_2.png",
+      "path": "assets/products/transfer-bar-for-select-models/02.png",
+      "sha256": "c172a76a7529aaec97966b9323559beb2fb6c7b77012feed9a704749a7f217fa"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2025/10/TransferBar_3.png",
+      "path": "assets/products/transfer-bar-for-select-models/03.png",
+      "sha256": "065c0823e021f92f7cdf8533e32a4516a5d8ad834b070b82a109fd80a84f32af"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Pro Mag® TX .22 LR 21-round magazine",
+  "slug": "pro-mag-tx-22-lr-21-round-magazine",
+  "source_url": "https://texastriggerusa.com/product/pro-mag-taurus-tx-22-lr-21-rd/",
+  "canonical_url": "https://texastriggerusa.com/product/pro-mag-taurus-tx-22-lr-21-rd/",
+  "regular_price": "$ 25.99",
+  "sale_price": "",
+  "short_description_text": "",
+  "short_description_html": "",
+  "description_text": "Taurus TX22 21-Round Magazine – .22 LR Extended Magazine More Capacity. Reliable Performance. Spend more time shooting and less time reloading with the Taurus TX22 21-Round Magazine . Designed for the Taurus®",
+  "description_html": "<h4>Taurus TX22 21-Round Magazine – .22 LR Extended Magazine</h4>\r\n<h5>More Capacity. Reliable Performance.</h5>\r\n<p class=\"isSelectedEnd\">Spend more time shooting and less time reloading with the <strong>Taurus TX22 21-Round Magazine</strong>. Designed for the Taurus®",
+  "categories": [
+    "Magazines"
+  ],
+  "sku": "",
+  "attributes": {},
+  "compatibility_information": "",
+  "variations": {},
+  "gallery_source_urls": [
+    "https://texastriggerusa.com/wp-content/uploads/2026/07/TAU-A9_001__98411.jpg",
+    "https://texastriggerusa.com/wp-content/uploads/2026/07/TAU-A9_005__54133.jpg",
+    "https://texastriggerusa.com/wp-content/uploads/2026/07/TAU-A8_003__29517.jpg",
+    "https://texastriggerusa.com/wp-content/uploads/2026/07/TAU-A9_002__18810.jpg",
+    "https://texastriggerusa.com/wp-content/uploads/2026/07/TAU-A9_003__24759.jpg"
+  ],
+  "images": [
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/07/TAU-A9_001__98411.jpg",
+      "path": "assets/products/pro-mag-tx-22-lr-21-round-magazine/01.jpg",
+      "sha256": "1da70f5fa8895e01d36f62ec42afdbbd6baba953d55cdf1f632255e3f865b2ec"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/07/TAU-A9_005__54133.jpg",
+      "path": "assets/products/pro-mag-tx-22-lr-21-round-magazine/02.jpg",
+      "sha256": "fe3a4a8ad625aafcaf3328de93a0ab8e6b1aaa9bf9cd9a7a35af1e825b937ed0"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/07/TAU-A8_003__29517.jpg",
+      "path": "assets/products/pro-mag-tx-22-lr-21-round-magazine/03.jpg",
+      "sha256": "10aa92f974091a6365e0c3b776d10067cf9de2b0289b14505bb3cd85db105688"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/07/TAU-A9_002__18810.jpg",
+      "path": "assets/products/pro-mag-tx-22-lr-21-round-magazine/04.jpg",
+      "sha256": "7911655bee9634a02c7995610418eeee2dd2333b8aee73814caa4ab6e64c3ac9"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/07/TAU-A9_003__24759.jpg",
+      "path": "assets/products/pro-mag-tx-22-lr-21-round-magazine/05.jpg",
+      "sha256": "45868508289200f1e31b2fc53a85cd8960c106e926a0c781c990e7963bb4c4ad"
+    }
+  ]
+}

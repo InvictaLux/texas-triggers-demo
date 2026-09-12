@@ -1,0 +1,41 @@
+{
+  "name": "AK-47 30 Rd Magazine — Custom Dual-Window",
+  "slug": "ak-47-30-rd-magazine-custom-dual-window",
+  "source_url": "https://texastriggerusa.com/product/7-62x39-banana-magazine-custom-dual-window/",
+  "canonical_url": "https://texastriggerusa.com/product/7-62x39-banana-magazine-custom-dual-window/",
+  "regular_price": "$ 56.00",
+  "sale_price": "",
+  "short_description_text": "",
+  "short_description_html": "",
+  "description_text": "AK 30 RD Mag | Romanian Military Surplus 7.62x39 Magazine Old-school Romanian steel with a custom Texas Trigger upgrade. The Romanian AK 30 rd mag starts with",
+  "description_html": "<div class=\"\" data-turn-id-container=\"d793db19-38cc-45ea-b0f6-e9a758e34941\" data-is-intersecting=\"true\">\r\n<h4>AK 30 RD Mag | Romanian Military Surplus 7.62x39 Magazine</h4>\r\n<p class=\"isSelectedEnd\"><strong>Old-school Romanian steel with a custom Texas Trigger upgrade.</strong></p>\r\n<p class=\"isSelectedEnd\">The <strong>Romanian AK 30 rd mag</strong> starts with",
+  "categories": [
+    "Magazines"
+  ],
+  "sku": "",
+  "attributes": {},
+  "compatibility_information": "",
+  "variations": {},
+  "gallery_source_urls": [
+    "https://texastriggerusa.com/wp-content/uploads/2026/03/IMG_9465.png",
+    "https://texastriggerusa.com/wp-content/uploads/2026/03/IMG_9468.png",
+    "https://texastriggerusa.com/wp-content/uploads/2026/03/IMG_9469.png"
+  ],
+  "images": [
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/03/IMG_9465.png",
+      "path": "assets/products/ak-47-30-rd-magazine-custom-dual-window/01.png",
+      "sha256": "8c3725121e541b5eb9f9eb3ee43d46f2a98bfc54a2b41641f208d296488c3241"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/03/IMG_9468.png",
+      "path": "assets/products/ak-47-30-rd-magazine-custom-dual-window/02.png",
+      "sha256": "3dd1257954c7732accdc3e2c9f4915e6ad1ae7e48b692d4cb03ad33cc4e3618d"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/03/IMG_9469.png",
+      "path": "assets/products/ak-47-30-rd-magazine-custom-dual-window/03.png",
+      "sha256": "5c1c4fcd20fd821ed9fe17c023c088fb67368a54b84910ed9cae126c06d840c9"
+    }
+  ]
+}

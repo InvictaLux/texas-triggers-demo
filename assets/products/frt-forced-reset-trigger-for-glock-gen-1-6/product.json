@@ -1,0 +1,40 @@
+{
+  "name": "FRT (Forced Reset Trigger) for Glock (Gen 1–6)",
+  "slug": "frt-forced-reset-trigger-for-glock-gen-1-6",
+  "source_url": "https://texastriggerusa.com/product/glock-frt-gen-1-6/",
+  "canonical_url": "https://texastriggerusa.com/product/glock-frt-gen-1-6/",
+  "regular_price": "$ 110.00",
+  "sale_price": "$ 95.00",
+  "short_description_text": "",
+  "short_description_html": "",
+  "description_text": "Glock FRT | Raised Radiused Edge Force Reset Trigger Gen 1–6 Fast reset. Premium materials. A trigger that doesn't blend in. The Glock FRT Raised Radiused Edge Trigger from Texas",
+  "description_html": "<h4>Glock FRT | Raised Radiused Edge Force Reset Trigger Gen 1–6</h4>\r\n<p class=\"isSelectedEnd\"><strong>Fast reset. Premium materials. A trigger that doesn't blend in.</strong></p>\r\n<p class=\"isSelectedEnd\">The <strong>Glock FRT</strong> Raised Radiused Edge Trigger from Texas",
+  "categories": [
+    "FRTs"
+  ],
+  "sku": "",
+  "attributes": {},
+  "compatibility_information": "",
+  "variations": {
+    "attribute_pa_glock-frt-color": [
+      "Enhanced Black Grip",
+      "Enhanced Red Grip"
+    ]
+  },
+  "gallery_source_urls": [
+    "https://texastriggerusa.com/wp-content/uploads/2026/02/Red-Glock-FRT.jpeg",
+    "https://texastriggerusa.com/wp-content/uploads/2026/02/Black-Glock-FRTv2.png"
+  ],
+  "images": [
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/02/Red-Glock-FRT.jpeg",
+      "path": "assets/products/frt-forced-reset-trigger-for-glock-gen-1-6/01.jpeg",
+      "sha256": "bb6ee0160873533fadfce5a62017b5ccfd2c3366ae4faf6ba758989234f40cbf"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/02/Black-Glock-FRTv2.png",
+      "path": "assets/products/frt-forced-reset-trigger-for-glock-gen-1-6/02.png",
+      "sha256": "84df87fb7ce851595823de3f6b5bb7ebe22be4b39a8c4f3d3d7dceafd8695782"
+    }
+  ]
+}

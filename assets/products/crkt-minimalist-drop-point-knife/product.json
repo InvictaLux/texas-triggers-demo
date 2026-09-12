@@ -1,0 +1,59 @@
+{
+  "name": "CRKT Minimalist Drop Point Knife",
+  "slug": "crkt-minimalist-drop-point-knife",
+  "source_url": "https://texastriggerusa.com/product/minimalist-drop-point/",
+  "canonical_url": "https://texastriggerusa.com/product/minimalist-drop-point/",
+  "regular_price": "$ 48.00",
+  "sale_price": "",
+  "short_description_text": "",
+  "short_description_html": "",
+  "description_text": "CRKT Drop Point Knife – Compact Fixed Blade Compact Size. Serious Performance. A dependable Drop Point Knife does not need to be oversized. The CRKT®",
+  "description_html": "<ul>\r\n \t<li style=\"list-style-type: none;\">\r\n<ul>\r\n \t<li style=\"list-style-type: none;\">\r\n<h4>CRKT Drop Point Knife – Compact Fixed Blade</h4>\r\n<h5>Compact Size. Serious Performance.</h5>\r\n<p class=\"isSelectedEnd\">A dependable <strong>Drop Point Knife</strong> does not need to be oversized. The CRKT®",
+  "categories": [
+    "All Products"
+  ],
+  "sku": "",
+  "attributes": {},
+  "compatibility_information": "",
+  "variations": {},
+  "gallery_source_urls": [
+    "https://texastriggerusa.com/wp-content/uploads/2026/07/25unitsCRKTMinimalistFixedDroppointPlainBlack.webp",
+    "https://texastriggerusa.com/wp-content/uploads/2026/07/25unitsCRKTMinimalistFixedDroppointPlainBlack5.webp",
+    "https://texastriggerusa.com/wp-content/uploads/2026/07/25unitsCRKTMinimalistFixedDroppointPlainBlack3.png",
+    "https://texastriggerusa.com/wp-content/uploads/2026/07/25unitsCRKTMinimalistFixedDroppointPlainBlack4.webp",
+    "https://texastriggerusa.com/wp-content/uploads/2026/07/25unitsCRKTMinimalistFixedDroppointPlainBlack2.webp",
+    "https://texastriggerusa.com/wp-content/uploads/2026/07/25unitsCRKTMinimalistFixedDroppointPlainBlack1.webp"
+  ],
+  "images": [
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/07/25unitsCRKTMinimalistFixedDroppointPlainBlack.webp",
+      "path": "assets/products/crkt-minimalist-drop-point-knife/01.webp",
+      "sha256": "4ab6f819c0df91238b6159b45a0d22e33e250d3a2dfa42d293251aa8b61ee4d1"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/07/25unitsCRKTMinimalistFixedDroppointPlainBlack5.webp",
+      "path": "assets/products/crkt-minimalist-drop-point-knife/02.webp",
+      "sha256": "6c57b07d79604a75df87e00790455545246cfbf9e6bd2376948e9399d3a936ec"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/07/25unitsCRKTMinimalistFixedDroppointPlainBlack3.png",
+      "path": "assets/products/crkt-minimalist-drop-point-knife/03.png",
+      "sha256": "96078552edeff4f1f8add4369ef562f56b92c009c6b959dd8c62bf8db4b9f5c9"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/07/25unitsCRKTMinimalistFixedDroppointPlainBlack4.webp",
+      "path": "assets/products/crkt-minimalist-drop-point-knife/04.webp",
+      "sha256": "a42766149335f1d21c884345d73a5bfad4f60844f617de1c626d8959033c8f4c"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/07/25unitsCRKTMinimalistFixedDroppointPlainBlack2.webp",
+      "path": "assets/products/crkt-minimalist-drop-point-knife/05.webp",
+      "sha256": "7009443c4d2bca6040578c1e0eca1b0be469ee2bbe1887303be7ce45549015de"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/07/25unitsCRKTMinimalistFixedDroppointPlainBlack1.webp",
+      "path": "assets/products/crkt-minimalist-drop-point-knife/06.webp",
+      "sha256": "408fb9d502ebc5a131f2de1e409e30fe7f5a0c9745c7c3afb09c34d512c73f74"
+    }
+  ]
+}

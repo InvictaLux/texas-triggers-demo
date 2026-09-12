@@ -1,0 +1,35 @@
+{
+  "name": "Taurus TX22 34-Round Magazine",
+  "slug": "taurus-tx22-34-round-magazine",
+  "source_url": "https://texastriggerusa.com/product/taurus-tx22-34-round-magazine/",
+  "canonical_url": "https://texastriggerusa.com/product/taurus-tx22-34-round-magazine/",
+  "regular_price": "$ 31.00",
+  "sale_price": "",
+  "short_description_text": "",
+  "short_description_html": "",
+  "description_text": "ProMag TX22 Magazine – 34-Round Extended .22 LR Magazine Spend more time shooting and less time reloading with the ProMag TX22 Magazine . With a 34-round capacity, this extended magazine gives",
+  "description_html": "<h4>ProMag TX22 Magazine – 34-Round Extended .22 LR Magazine</h4>\r\n<p class=\"isSelectedEnd\">Spend more time shooting and less time reloading with the <strong>ProMag TX22 Magazine</strong>. With a 34-round capacity, this extended magazine gives",
+  "categories": [
+    "Magazines"
+  ],
+  "sku": "",
+  "attributes": {},
+  "compatibility_information": "",
+  "variations": {},
+  "gallery_source_urls": [
+    "https://texastriggerusa.com/wp-content/uploads/2026/08/promag-taurus-tx22-22-lr-34-round-extended-magazine-right.webp",
+    "https://texastriggerusa.com/wp-content/uploads/2026/08/promag-taurus-tx22-22-lr-34-round-extended-magazine-front-left.webp"
+  ],
+  "images": [
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/08/promag-taurus-tx22-22-lr-34-round-extended-magazine-right.webp",
+      "path": "assets/products/taurus-tx22-34-round-magazine/01.webp",
+      "sha256": "ac3005786f3f28ee6b0d0bd4579025db634b7a89a8fc1655616d3da744b6a931"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/08/promag-taurus-tx22-22-lr-34-round-extended-magazine-front-left.webp",
+      "path": "assets/products/taurus-tx22-34-round-magazine/02.webp",
+      "sha256": "f2022a845b140942e434e58218cdeaf207ecb38bbdf8fed83bde3a62b8cc6ed6"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Magpul PMAG 30 GEN M2 MOE – AR-15 30-Round Magazine",
+  "slug": "magpul-pmag-30-gen-m2-moe-ar-15-30-round-magazine",
+  "source_url": "https://texastriggerusa.com/product/pmag-30-ar-m4-gen-m2-moe-no-window/",
+  "canonical_url": "https://texastriggerusa.com/product/pmag-30-ar-m4-gen-m2-moe-no-window/",
+  "regular_price": "$ 12.99",
+  "sale_price": "",
+  "short_description_text": "",
+  "short_description_html": "",
+  "description_text": "Magpul PMAG 30 GEN M2 MOE – AR-15 30-Round Magazine Proven Performance. Trusted Reliability. The Magpul PMAG 30 GEN M2 MOE delivers the dependable performance that has made PMAG magazines a",
+  "description_html": "<h1>Magpul PMAG 30 GEN M2 MOE – AR-15 30-Round Magazine</h1>\r\n<h2>Proven Performance. Trusted Reliability.</h2>\r\n<p class=\"isSelectedEnd\">The <strong>Magpul PMAG 30 GEN M2 MOE</strong> delivers the dependable performance that has made PMAG magazines a",
+  "categories": [
+    "Magazines"
+  ],
+  "sku": "",
+  "attributes": {},
+  "compatibility_information": "",
+  "variations": {},
+  "gallery_source_urls": [
+    "https://texastriggerusa.com/wp-content/uploads/2026/07/mag571-blk_magpul_pmag_30_ar_m4_gen_m2_moe_01_1.jpg",
+    "https://texastriggerusa.com/wp-content/uploads/2026/07/mag571-blk_magpul_pmag_30_ar_m4_gen_m2_moe_02_1.jpg",
+    "https://texastriggerusa.com/wp-content/uploads/2026/07/mag571-blk_magpul_pmag_30_ar_m4_gen_m2_moe_03_1.jpg",
+    "https://texastriggerusa.com/wp-content/uploads/2026/07/mag571-blk_magpul_pmag_30_ar_m4_gen_m2_moe_05_1.jpg"
+  ],
+  "images": [
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/07/mag571-blk_magpul_pmag_30_ar_m4_gen_m2_moe_01_1.jpg",
+      "path": "assets/products/magpul-pmag-30-gen-m2-moe-ar-15-30-round-magazine/01.jpg",
+      "sha256": "c468f5477866c20e362f4f3259eb6ba3d36ea54297764e1e60380748b29472d3"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/07/mag571-blk_magpul_pmag_30_ar_m4_gen_m2_moe_02_1.jpg",
+      "path": "assets/products/magpul-pmag-30-gen-m2-moe-ar-15-30-round-magazine/02.jpg",
+      "sha256": "5f1fded13f9cdbe42d80575f6bd9cf415755ad571be7dc320e25dda7719c6789"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/07/mag571-blk_magpul_pmag_30_ar_m4_gen_m2_moe_03_1.jpg",
+      "path": "assets/products/magpul-pmag-30-gen-m2-moe-ar-15-30-round-magazine/03.jpg",
+      "sha256": "b76173ccfd3b8b7002d7a1fb4686aad982c95d39f1feff1c140c1f9839a63537"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/07/mag571-blk_magpul_pmag_30_ar_m4_gen_m2_moe_05_1.jpg",
+      "path": "assets/products/magpul-pmag-30-gen-m2-moe-ar-15-30-round-magazine/04.jpg",
+      "sha256": "108691f33435d58f0136113025dbcf18cb3fa0ec42c6ecabd66aae11ec48e7c7"
+    }
+  ]
+}

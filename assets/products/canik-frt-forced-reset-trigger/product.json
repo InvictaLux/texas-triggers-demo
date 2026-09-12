@@ -1,0 +1,46 @@
+{
+  "name": "Canik FRT (Forced Reset Trigger",
+  "slug": "canik-frt-forced-reset-trigger",
+  "source_url": "https://texastriggerusa.com/product/canik-frt/",
+  "canonical_url": "https://texastriggerusa.com/product/canik-frt/",
+  "regular_price": "$ 125.00",
+  "sale_price": "$ 95.00",
+  "short_description_text": "",
+  "short_description_html": "",
+  "description_text": "Canik FRT – Forced Reset Trigger Your Canik just leveled up. The Canik FRT delivers fast, positive forced-reset performance — same trigger feel, serious upgrade in speed. Compatible Canik Models Canik METE",
+  "description_html": "<strong>Canik FRT – Forced Reset Trigger</strong>\r\n\r\nYour Canik just leveled up. The Canik FRT delivers fast, positive forced-reset performance — same trigger feel, serious upgrade in speed.\r\n\r\n<strong>Compatible Canik Models</strong>\r\n<ul>\r\n \t<li>Canik METE",
+  "categories": [
+    "FRTs"
+  ],
+  "sku": "",
+  "attributes": {},
+  "compatibility_information": "Compatible Canik Models Canik METE",
+  "variations": {
+    "attribute_pa_canik-frt-color": [
+      "Enhanced Black Grip",
+      "Enhanced Red Grip"
+    ]
+  },
+  "gallery_source_urls": [
+    "https://texastriggerusa.com/wp-content/uploads/2026/02/IMG_8820.jpg",
+    "https://texastriggerusa.com/wp-content/uploads/2026/02/IMG_8818-1.png",
+    "https://texastriggerusa.com/wp-content/uploads/2026/02/IMG_8824.png"
+  ],
+  "images": [
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/02/IMG_8820.jpg",
+      "path": "assets/products/canik-frt-forced-reset-trigger/01.jpg",
+      "sha256": "6d42e265ee613c02153a35e4c652ae09a98ae39974658d4168c16a715888a061"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/02/IMG_8818-1.png",
+      "path": "assets/products/canik-frt-forced-reset-trigger/02.png",
+      "sha256": "5f960e4b25a27bf69d5bb4477109cc0f22892f68ca12a5b3fbecab33d1acd4dc"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/02/IMG_8824.png",
+      "path": "assets/products/canik-frt-forced-reset-trigger/03.png",
+      "sha256": "76211fbe8adbc24200e8799a17b47561afa3aea2eda0a3f0dbce9dc6dcdda810"
+    }
+  ]
+}

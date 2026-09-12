@@ -1,0 +1,41 @@
+{
+  "name": "Pro Mag® Taurus TX .22 LR 17 Rd Mag",
+  "slug": "pro-mag-taurus-tx-22-lr-17-rd-mag",
+  "source_url": "https://texastriggerusa.com/product/pro-mag-taurus-tx-22-lr-17-rd/",
+  "canonical_url": "https://texastriggerusa.com/product/pro-mag-taurus-tx-22-lr-17-rd/",
+  "regular_price": "$ 19.99",
+  "sale_price": "",
+  "short_description_text": "",
+  "short_description_html": "",
+  "description_text": "Taurus TX22 17-Round Magazine – .22 LR Magazine Reliable Feeding. Built to Last. Keep your pistol loaded and ready for more range time with the Taurus TX22 17-Round Magazine . Designed for",
+  "description_html": "<h4>Taurus TX22 17-Round Magazine – .22 LR Magazine</h4>\r\n<h5>Reliable Feeding. Built to Last.</h5>\r\n<p class=\"isSelectedEnd\">Keep your pistol loaded and ready for more range time with the <strong>Taurus TX22 17-Round Magazine</strong>. Designed for",
+  "categories": [
+    "Magazines"
+  ],
+  "sku": "",
+  "attributes": {},
+  "compatibility_information": "",
+  "variations": {},
+  "gallery_source_urls": [
+    "https://texastriggerusa.com/wp-content/uploads/2026/07/TAU-A8_001__08031.jpg",
+    "https://texastriggerusa.com/wp-content/uploads/2026/07/TAU-A8_004__32429.jpg",
+    "https://texastriggerusa.com/wp-content/uploads/2026/07/TAU-A8_002__87694.jpg"
+  ],
+  "images": [
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/07/TAU-A8_001__08031.jpg",
+      "path": "assets/products/pro-mag-taurus-tx-22-lr-17-rd-mag/01.jpg",
+      "sha256": "26abb4041a3a97064a0f4bf39e303de8e9c55297bdad07a3df35891c3e50bfec"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/07/TAU-A8_004__32429.jpg",
+      "path": "assets/products/pro-mag-taurus-tx-22-lr-17-rd-mag/02.jpg",
+      "sha256": "4afd6bfdbcd473814b6817c93827888dcb9f571fe2cbdf1d919417643d0e078e"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/07/TAU-A8_002__87694.jpg",
+      "path": "assets/products/pro-mag-taurus-tx-22-lr-17-rd-mag/03.jpg",
+      "sha256": "23d838083572f1de9911fadf2b7b19cc79389299a7632b460bc77474d587a04e"
+    }
+  ]
+}

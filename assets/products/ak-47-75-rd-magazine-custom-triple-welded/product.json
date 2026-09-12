@@ -1,0 +1,47 @@
+{
+  "name": "AK-47 75 Rd Magazine — Custom Triple-Welded",
+  "slug": "ak-47-75-rd-magazine-custom-triple-welded",
+  "source_url": "https://texastriggerusa.com/product/7-62x39-banana-mag-custom-triple-welded-2/",
+  "canonical_url": "https://texastriggerusa.com/product/7-62x39-banana-mag-custom-triple-welded-2/",
+  "regular_price": "$ 200.00",
+  "sale_price": "",
+  "short_description_text": "",
+  "short_description_html": "",
+  "description_text": "AK 75 RD Magazine | Custom Romanian Surplus 7.62x39 Magazine Big capacity. Romanian surplus steel. Built with character. The AK 75 rd magazine from Texas Trigger takes genuine Romanian military",
+  "description_html": "<h4>AK 75 RD Magazine | Custom Romanian Surplus 7.62x39 Magazine</h4>\r\n<p class=\"isSelectedEnd\"><strong>Big capacity. Romanian surplus steel. Built with character.</strong></p>\r\n<p class=\"isSelectedEnd\">The <strong>AK 75 rd magazine</strong> from Texas Trigger takes genuine Romanian military",
+  "categories": [
+    "Magazines"
+  ],
+  "sku": "",
+  "attributes": {},
+  "compatibility_information": "",
+  "variations": {},
+  "gallery_source_urls": [
+    "https://texastriggerusa.com/wp-content/uploads/2025/12/IMG_8410.png",
+    "https://texastriggerusa.com/wp-content/uploads/2025/12/IMG_8389.png",
+    "https://texastriggerusa.com/wp-content/uploads/2025/12/IMG_8411.png",
+    "https://texastriggerusa.com/wp-content/uploads/2025/12/IMG_8412.png"
+  ],
+  "images": [
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2025/12/IMG_8410.png",
+      "path": "assets/products/ak-47-75-rd-magazine-custom-triple-welded/01.png",
+      "sha256": "dc3a91a8c30472296d89774c34593581ccd121149bf8dcedd49b8fc1ef26e647"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2025/12/IMG_8389.png",
+      "path": "assets/products/ak-47-75-rd-magazine-custom-triple-welded/02.png",
+      "sha256": "823cb4a290f50cb11ae49508cf2cc0eeee79d279721950d86fa264bb71a4d864"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2025/12/IMG_8411.png",
+      "path": "assets/products/ak-47-75-rd-magazine-custom-triple-welded/03.png",
+      "sha256": "b99271f8520633fc7c2c8ee5d9f5c4704ce958115b466310c72323608fcd4551"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2025/12/IMG_8412.png",
+      "path": "assets/products/ak-47-75-rd-magazine-custom-triple-welded/04.png",
+      "sha256": "1140a096cd53ddf3564c431ecb6a5b1e57ef43e99a0936a55600ceae79e01fb9"
+    }
+  ]
+}

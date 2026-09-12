@@ -1,0 +1,35 @@
+{
+  "name": "Extended Wire for Select Models",
+  "slug": "extended-wire-for-select-models",
+  "source_url": "https://texastriggerusa.com/product/extended-wire-for-zastava-models/",
+  "canonical_url": "https://texastriggerusa.com/product/extended-wire-for-zastava-models/",
+  "regular_price": "$ 20.00",
+  "sale_price": "",
+  "short_description_text": "",
+  "short_description_html": "",
+  "description_text": "Extended Wire | Diablo Trigger Compatibility Upgrade The extended trigger group wire is a required upgrade for select AK-pattern rifles using the Diablo Trigger system.",
+  "description_html": "<h4 class=\"PDq2pG_selectionAnchorContainer\" data-section-id=\"1h5fevv\" data-start=\"0\" data-end=\"69\">Extended Wire | Diablo Trigger Compatibility Upgrade</h4>\r\n<p data-start=\"71\" data-end=\"371\">The extended trigger group wire is a required upgrade for select AK-pattern rifles using the Diablo Trigger system.",
+  "categories": [
+    "FRTs"
+  ],
+  "sku": "",
+  "attributes": {},
+  "compatibility_information": "Extended Wire | Diablo Trigger Compatibility Upgrade The extended trigger group wire is a required upgrade for select AK-pattern rifles using the Diablo Trigger system.",
+  "variations": {},
+  "gallery_source_urls": [
+    "https://texastriggerusa.com/wp-content/uploads/2025/11/texastriggerusa_Extended-Wire.png",
+    "https://texastriggerusa.com/wp-content/uploads/2025/11/texastriggerusa_Extended-Wire2.png"
+  ],
+  "images": [
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2025/11/texastriggerusa_Extended-Wire.png",
+      "path": "assets/products/extended-wire-for-select-models/01.png",
+      "sha256": "ee0deea003ce73cbfd97eecb7f9ac3579662e80fbd16294a5620cb7ecaf6ebd2"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2025/11/texastriggerusa_Extended-Wire2.png",
+      "path": "assets/products/extended-wire-for-select-models/02.png",
+      "sha256": "eb6ad6b0c0da0a0dbba04e3ca6ea8e1e17b808e301ed67b9091d64da5eecdc0c"
+    }
+  ]
+}

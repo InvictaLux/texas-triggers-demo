@@ -1,0 +1,40 @@
+{
+  "name": "FRT (Forced Reset Trigger) for Glock Flat Face (Gen 1-6)",
+  "slug": "frt-forced-reset-trigger-for-glock-flat-face-gen-1-6",
+  "source_url": "https://texastriggerusa.com/product/glock-flat-face-frt-gen-1-6/",
+  "canonical_url": "https://texastriggerusa.com/product/glock-flat-face-frt-gen-1-6/",
+  "regular_price": "$ 110.00",
+  "sale_price": "$ 95.00",
+  "short_description_text": "",
+  "short_description_html": "",
+  "description_text": "Glock FRT | Flat Face Force Reset Trigger for Gen 1–6 Give your Glock a faster reset and a clean, flat-face upgrade. The Glock FRT from Texas Trigger combines a",
+  "description_html": "<h5>Glock FRT | Flat Face Force Reset Trigger for Gen 1–6</h5>\r\n<p class=\"isSelectedEnd\"><strong>Give your Glock a faster reset and a clean, flat-face upgrade.</strong></p>\r\n<p class=\"isSelectedEnd\">The <strong>Glock FRT</strong> from Texas Trigger combines a",
+  "categories": [
+    "FRTs"
+  ],
+  "sku": "",
+  "attributes": {},
+  "compatibility_information": "",
+  "variations": {
+    "attribute_pa_flat-glock-frt-color": [
+      "Cerakote Black",
+      "Cerakote Red"
+    ]
+  },
+  "gallery_source_urls": [
+    "https://texastriggerusa.com/wp-content/uploads/2026/05/IMG_0067-1.png",
+    "https://texastriggerusa.com/wp-content/uploads/2026/05/IMG_0098.jpeg"
+  ],
+  "images": [
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/05/IMG_0067-1.png",
+      "path": "assets/products/frt-forced-reset-trigger-for-glock-flat-face-gen-1-6/01.png",
+      "sha256": "829ca5cf914bb45882529bc4ec6c95e59ef348536e245b88859cd1d0350d0ddc"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/05/IMG_0098.jpeg",
+      "path": "assets/products/frt-forced-reset-trigger-for-glock-flat-face-gen-1-6/02.jpeg",
+      "sha256": "d1cd511de5e9988f8c9ab25b5f6838f2a9615d9c50c7bd3801cc10a4a10c03a1"
+    }
+  ]
+}

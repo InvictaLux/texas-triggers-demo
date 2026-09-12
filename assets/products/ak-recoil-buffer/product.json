@@ -1,0 +1,47 @@
+{
+  "name": "AK Recoil Buffer",
+  "slug": "ak-recoil-buffer",
+  "source_url": "https://texastriggerusa.com/product/ak-recoil-buffer/",
+  "canonical_url": "https://texastriggerusa.com/product/ak-recoil-buffer/",
+  "regular_price": "$ 15.00",
+  "sale_price": "",
+  "short_description_text": "",
+  "short_description_html": "",
+  "description_text": "AK Recoil Buffer | Reduce Wear & Improve Cycling Small upgrade. Big difference. The AK recoil buffer is one of our most popular accessories",
+  "description_html": "<h4 class=\"PDq2pG_selectionAnchorContainer\" data-section-id=\"2s6s3p\" data-start=\"0\" data-end=\"51\">AK Recoil Buffer | Reduce Wear &amp; Improve Cycling</h4>\r\n<p data-start=\"53\" data-end=\"83\">Small upgrade. Big difference.</p>\r\n<p data-start=\"85\" data-end=\"359\">The AK recoil buffer is one of our most popular accessories",
+  "categories": [
+    "FRTs"
+  ],
+  "sku": "",
+  "attributes": {},
+  "compatibility_information": "",
+  "variations": {},
+  "gallery_source_urls": [
+    "https://texastriggerusa.com/wp-content/uploads/2025/12/ak_recoil_black_carbonbuffer_1-1.png",
+    "https://texastriggerusa.com/wp-content/uploads/2025/06/ak_recoil_black_carbonbuffer_1.png",
+    "https://texastriggerusa.com/wp-content/uploads/2025/06/ak_recoil_black_carbonbuffer_3.png",
+    "https://texastriggerusa.com/wp-content/uploads/2025/06/ak_recoil_black_carbonbuffer_5.png"
+  ],
+  "images": [
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2025/12/ak_recoil_black_carbonbuffer_1-1.png",
+      "path": "assets/products/ak-recoil-buffer/01.png",
+      "sha256": "e9306e91765e6aad81b8a1a03fb69b2aa68406663d36437fc1ea35a167a44952"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2025/06/ak_recoil_black_carbonbuffer_1.png",
+      "duplicate_of": "assets/products/ak-recoil-buffer/01.png",
+      "sha256": "e9306e91765e6aad81b8a1a03fb69b2aa68406663d36437fc1ea35a167a44952"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2025/06/ak_recoil_black_carbonbuffer_3.png",
+      "path": "assets/products/ak-recoil-buffer/03.png",
+      "sha256": "95bb27ee1d4c9effe201c61292ec7fd69b11ac5b14444340dc628bc8f990985e"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2025/06/ak_recoil_black_carbonbuffer_5.png",
+      "path": "assets/products/ak-recoil-buffer/04.png",
+      "sha256": "d216ee9580024af641ef557f473b348c906def0b3808536972e86ad76e88e2aa"
+    }
+  ]
+}

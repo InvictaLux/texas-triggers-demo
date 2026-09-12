@@ -1,0 +1,41 @@
+{
+  "name": "Texas Triggers Snapback Hat",
+  "slug": "texas-triggers-snapback-hat",
+  "source_url": "https://texastriggerusa.com/product/texas-triggers-snapback/",
+  "canonical_url": "https://texastriggerusa.com/product/texas-triggers-snapback/",
+  "regular_price": "$ 35.00",
+  "sale_price": "",
+  "short_description_text": "",
+  "short_description_html": "",
+  "description_text": "Texas Trigger Hat | Black Camo Snapback Rep Texas Triggers wherever the day takes you. The Texas Trigger Hat brings",
+  "description_html": "<h4 class=\"PDq2pG_selectionAnchorContainer\" data-section-id=\"1dsugzr\" data-start=\"0\" data-end=\"42\">Texas Trigger Hat | Black Camo Snapback</h4>\r\n<p data-start=\"44\" data-end=\"94\"><strong data-start=\"44\" data-end=\"94\">Rep Texas Triggers wherever the day takes you.</strong></p>\r\n<p data-start=\"96\" data-end=\"379\">The <strong data-start=\"100\" data-end=\"121\">Texas Trigger Hat</strong> brings",
+  "categories": [
+    "All Products"
+  ],
+  "sku": "",
+  "attributes": {},
+  "compatibility_information": "",
+  "variations": {},
+  "gallery_source_urls": [
+    "https://texastriggerusa.com/wp-content/uploads/2026/03/IMG_9364.png",
+    "https://texastriggerusa.com/wp-content/uploads/2026/03/IMG_9369.png",
+    "https://texastriggerusa.com/wp-content/uploads/2026/03/IMG_9366.png"
+  ],
+  "images": [
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/03/IMG_9364.png",
+      "path": "assets/products/texas-triggers-snapback-hat/01.png",
+      "sha256": "8e3b4e12060c821145906edfb64d0298a79dbb6832c3832fbf2ea8cd4459e14a"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/03/IMG_9369.png",
+      "path": "assets/products/texas-triggers-snapback-hat/02.png",
+      "sha256": "16203a211380c23b258e3abe3d7c93ad7be1206f2abcd765e495ab52e5dfed89"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/03/IMG_9366.png",
+      "path": "assets/products/texas-triggers-snapback-hat/03.png",
+      "sha256": "e690f18d4a3a9ded7550a87b1ae02dbcd59eeb5789d8135867d44b5ada0e606e"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "name": "KCI AR-15 50-Round Drum Magazine",
+  "slug": "kci-ar-15-50-round-drum-magazine",
+  "source_url": "https://texastriggerusa.com/product/ar-15-223-5-56mm-50-round-drum-magazine/",
+  "canonical_url": "https://texastriggerusa.com/product/ar-15-223-5-56mm-50-round-drum-magazine/",
+  "regular_price": "$ 108.99",
+  "sale_price": "",
+  "short_description_text": "",
+  "short_description_html": "",
+  "description_text": "AR 50 Round Magazine | KCI AR-15 Drum Magazine More rounds. Fewer reloads. The KCI AR 50 round magazine gives your AR-15 increased",
+  "description_html": "<h4 class=\"PDq2pG_selectionAnchorContainer\" data-section-id=\"k6xnzs\" data-start=\"0\" data-end=\"49\">AR 50 Round Magazine | KCI AR-15 Drum Magazine</h4>\r\n<p data-start=\"51\" data-end=\"343\">More rounds. Fewer reloads. The <strong data-start=\"83\" data-end=\"111\">KCI AR 50 round magazine</strong> gives your AR-15 increased",
+  "categories": [
+    "Magazines"
+  ],
+  "sku": "",
+  "attributes": {},
+  "compatibility_information": "",
+  "variations": {},
+  "gallery_source_urls": [
+    "https://texastriggerusa.com/wp-content/uploads/2026/07/ar-15-223-5-56mm-50-round-drum-magazine.webp",
+    "https://texastriggerusa.com/wp-content/uploads/2026/07/kci-ar-15-223-5-56mm-50-round-drum-magazine-1.webp",
+    "https://texastriggerusa.com/wp-content/uploads/2026/07/kci-ar-15-223-5-56mm-50-round-drum-magazine-2.webp",
+    "https://texastriggerusa.com/wp-content/uploads/2026/07/kci-ar-15-223-5-56mm-50-round-drum-magazine-5.webp",
+    "https://texastriggerusa.com/wp-content/uploads/2026/07/kci-ar-15-223-5-56mm-50-round-drum-magazine-3.webp",
+    "https://texastriggerusa.com/wp-content/uploads/2026/07/kci-ar-15-223-5-56mm-50-round-drum-magazine-4.webp"
+  ],
+  "images": [
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/07/ar-15-223-5-56mm-50-round-drum-magazine.webp",
+      "path": "assets/products/kci-ar-15-50-round-drum-magazine/01.webp",
+      "sha256": "23653b2b6e39ffd2019a85f035eb4ef6e05bffa929266ca4d39a45187b19cee4"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/07/kci-ar-15-223-5-56mm-50-round-drum-magazine-1.webp",
+      "path": "assets/products/kci-ar-15-50-round-drum-magazine/02.webp",
+      "sha256": "c83c1eec9c8d79bbacd0e3239e1a86452e3f06a3ae690ea94c1bb4bc6a2a2521"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/07/kci-ar-15-223-5-56mm-50-round-drum-magazine-2.webp",
+      "path": "assets/products/kci-ar-15-50-round-drum-magazine/03.webp",
+      "sha256": "f371473b5683c381a10ea7ca6d4bb422ea6ac7737becf97f2e38984a21c21f69"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/07/kci-ar-15-223-5-56mm-50-round-drum-magazine-5.webp",
+      "path": "assets/products/kci-ar-15-50-round-drum-magazine/04.webp",
+      "sha256": "0209d58be0a7aead10872908d647b996351c7f966c2faa8dacc5912edd43adae"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/07/kci-ar-15-223-5-56mm-50-round-drum-magazine-3.webp",
+      "path": "assets/products/kci-ar-15-50-round-drum-magazine/05.webp",
+      "sha256": "9d79efa3daadde00a668711d957179961f8eed1a6ac49dc38ae38edc4744262c"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/07/kci-ar-15-223-5-56mm-50-round-drum-magazine-4.webp",
+      "path": "assets/products/kci-ar-15-50-round-drum-magazine/06.webp",
+      "sha256": "b34895bbe390d0996013084897c85d02089d7b788dece41f9291f249bf1a3726"
+    }
+  ]
+}

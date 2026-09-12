@@ -1,0 +1,35 @@
+{
+  "name": "Rifle Chamber Flag – 6 Pack",
+  "slug": "rifle-chamber-flag-6-pack",
+  "source_url": "https://texastriggerusa.com/product/rifle-chamber-flags-6-pack/",
+  "canonical_url": "https://texastriggerusa.com/product/rifle-chamber-flags-6-pack/",
+  "regular_price": "$ 15.99",
+  "sale_price": "",
+  "short_description_text": "",
+  "short_description_html": "",
+  "description_text": "Rifle Chamber Flag | LBE Unlimited 6-Pack Never leave chamber status up for debate. At the range, firearm status should be obvious. The LBE Unlimited Rifle Chamber Flag 6-Pack provides",
+  "description_html": "<h4>Rifle Chamber Flag | LBE Unlimited 6-Pack</h4>\r\n<p class=\"isSelectedEnd\"><strong>Never leave chamber status up for debate.</strong></p>\r\n<p class=\"isSelectedEnd\">At the range, firearm status should be obvious. The <strong>LBE Unlimited Rifle Chamber Flag 6-Pack</strong> provides",
+  "categories": [
+    "Accessories"
+  ],
+  "sku": "",
+  "attributes": {},
+  "compatibility_information": "",
+  "variations": {},
+  "gallery_source_urls": [
+    "https://texastriggerusa.com/wp-content/uploads/2026/06/CSFLG-RFL-2-scaled-2.jpg",
+    "https://texastriggerusa.com/wp-content/uploads/2026/06/CSFLG-RFL-2-scaled-1.jpg"
+  ],
+  "images": [
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/06/CSFLG-RFL-2-scaled-2.jpg",
+      "path": "assets/products/rifle-chamber-flag-6-pack/01.jpg",
+      "sha256": "6cba60a20b0521d8787a57fbfdd66ae32881bd2c7ae54e84c527215f53559723"
+    },
+    {
+      "source_url": "https://texastriggerusa.com/wp-content/uploads/2026/06/CSFLG-RFL-2-scaled-1.jpg",
+      "duplicate_of": "assets/products/rifle-chamber-flag-6-pack/01.jpg",
+      "sha256": "6cba60a20b0521d8787a57fbfdd66ae32881bd2c7ae54e84c527215f53559723"
+    }
+  ]
+}
