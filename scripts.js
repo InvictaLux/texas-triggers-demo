@@ -146,7 +146,8 @@ function home() {
   return `<section class="hero-carousel" aria-roledescription="carousel" aria-label="Texas Triggers product highlights">
     <div class="hero-slide active hero-video-slide" data-hero-slide="0" aria-hidden="false">
       <video id="hero-video" muted playsinline preload="metadata" poster="assets/installation/hero-sigp320-frt-demo-poster.jpg">
-        <source src="assets/installation/hero-sigp320-frt-demo.mp4" type="video/mp4" />
+        <source src="assets/hero/hero-sigp320-frt-demo.webm" type="video/webm" />
+        <source src="assets/hero/hero-sigp320-frt-demo.mp4" type="video/mp4" />
       </video>
       <div class="hero-shade"></div>
       <div class="hero-content"><span class="eyebrow">Texas Triggers</span><h1>Sig P320<br /><em>“Reaper” FRT</em></h1><p>Drop-in trigger kit for the Sig P320 platform.</p></div>

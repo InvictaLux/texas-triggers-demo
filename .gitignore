@@ -1,6 +1,5 @@
 # Keep the approved Homepage Hero Slide 1 clip; exclude every other video.
 *.mp4
-!assets/installation/hero-sigp320-frt-demo.mp4
 
 # Generated visual/audit artifacts are not required to deploy the static site.
 docs/screenshots/
@@ -21,3 +20,5 @@ Thumbs.db
 !.env.example
 *.pem
 *.key
+
+!assets/hero/hero-sigp320-frt-demo.mp4
