@@ -104,13 +104,13 @@ const productMatches = (product, term) => {
 };
 
 const platformDefs = [
-  { name: 'AK', label: 'AK', keys: ['diablo', 'ak', 'beryl', 'tantal', 'zastava', 'wasr', 'draco'], art: 'assets/products/diablo-ak-47-frt-forced-reset-trigger/02.png' },
-  { name: 'P320', label: 'P320', keys: ['p320', 'sig p320'], art: 'assets/products/diablo-product-02.png' },
-  { name: 'Glock', label: 'Glock', keys: ['glock'], art: 'assets/products/frt-forced-reset-trigger-for-glock-gen-1-6/02.png' },
-  { name: 'TX22', label: 'TX22', keys: ['tx22', 'taurus tx'], art: 'assets/products/tx22-frt-buy-one-get-one-free/02.jpg' },
-  { name: '1911 / 2011', label: '1911 / 2011', keys: ['1911', '2011'], art: 'assets/products/1911-2011-frt-forced-reset-trigger/01.jpeg' },
-  { name: 'SKS', label: 'SKS', keys: ['sks'], art: 'assets/products/norinco-sks-frt-forced-reset-trigger/02.jpeg' },
-  { name: 'Canik', label: 'Canik', keys: ['canik'], art: 'assets/products/canik-frt-forced-reset-trigger/03.png' }
+  { name: 'AK', label: 'AK', keys: ['diablo', 'ak', 'beryl', 'tantal', 'zastava', 'wasr', 'draco'], art: 'assets/platforms/ak.jpg', alt: 'AK-47 rifle' },
+  { name: 'P320', label: 'P320', keys: ['p320', 'sig p320'], art: 'assets/platforms/p320.jpg', alt: 'SIG Sauer P320 compact pistol' },
+  { name: 'Glock', label: 'Glock', keys: ['glock'], art: 'assets/platforms/glock.png', alt: 'Glock 17 pistol' },
+  { name: 'TX22', label: 'TX22', keys: ['tx22', 'taurus tx'], art: 'assets/platforms/tx22.jpg', alt: 'Taurus TX22 pistol' },
+  { name: '1911 / 2011', label: '1911 / 2011', keys: ['1911', '2011'], art: 'assets/platforms/1911.jpg', alt: 'Colt M1911 pistol' },
+  { name: 'SKS', label: 'SKS', keys: ['sks'], art: 'assets/platforms/sks.jpg', alt: 'SKS rifle' },
+  { name: 'Canik', label: 'Canik', keys: ['canik'], art: 'assets/platforms/canik.jpg', alt: 'Canik TP9 SFx pistol' }
 ];
 
 function productPlatforms(product) {
@@ -205,8 +205,8 @@ function platformsPage() {
         const matches = platformProducts(platform);
         const active = selected === platform.name;
         return `<article class="platform-directory-card ${active ? 'selected' : ''}">
-          <a class="platform-card-art" href="?page=platforms&platform=${encodeURIComponent(platform.name)}"><img loading="lazy" src="${esc(platform.art)}" alt="" /><span>0${index + 1}</span></a>
-          <div><h2>${esc(platform.label)}</h2><p>${matches.length} matching trigger product${matches.length === 1 ? '' : 's'}</p><a class="text-link" href="?page=platforms&platform=${encodeURIComponent(platform.name)}">${active ? 'Selected' : 'View products'} <span aria-hidden="true">↗</span></a></div>
+          <a class="platform-card-art" data-platform-select="${esc(platform.name)}" data-platform-target="art" href="?page=platforms&platform=${encodeURIComponent(platform.name)}"><img loading="lazy" src="${esc(platform.art)}" alt="${esc(platform.alt)}" /><span>0${index + 1}</span></a>
+          <div><h2>${esc(platform.label)}</h2><p>${matches.length} matching trigger product${matches.length === 1 ? '' : 's'}</p><a class="text-link" data-platform-select="${esc(platform.name)}" data-platform-target="products" href="?page=platforms&platform=${encodeURIComponent(platform.name)}">${active ? 'Selected' : 'View products'} <span aria-hidden="true">↗</span></a></div>
           ${active ? `<div class="directory-products">${matches.map((product) => productCard(product)).join('') || '<p>No matching trigger product was found in the current catalog.</p>'}</div>` : ''}
         </article>`;
       }).join('')}</div>
@@ -574,7 +574,7 @@ function updateDocumentMetadata(page) {
   setMeta('meta[property="og:url"]', 'content', canonical.href, { tag: 'meta', property: 'og:url' });
 }
 
-function render() {
+function render(options = {}) {
   pageCleanup();
   pageCleanup = () => {};
   const page = new URLSearchParams(location.search).get('page') || 'home';
@@ -589,7 +589,13 @@ function render() {
     hashTarget.scrollIntoView({ block: 'start', behavior: 'instant' });
     window.setTimeout(() => hashTarget.scrollIntoView({ block: 'start', behavior: 'instant' }), 250);
   });
-  else window.scrollTo({ top: 0, behavior: 'auto' });
+  else if (Number.isFinite(options.restorePlatformScroll)) {
+    window.scrollTo({ top: Math.max(0, options.restorePlatformScroll), left: window.scrollX, behavior: 'instant' });
+  } else if (options.preservePlatform) {
+    const { name, target: targetName, viewportTop } = options.preservePlatform;
+    const target = $$('[data-platform-select]').find((element) => element.dataset.platformSelect === name && element.dataset.platformTarget === targetName);
+    if (target) window.scrollTo({ top: Math.max(0, window.scrollY + target.getBoundingClientRect().top - viewportTop), left: window.scrollX, behavior: 'instant' });
+  } else window.scrollTo({ top: 0, behavior: 'auto' });
 }
 
 const menus = { products: $('#products-menu'), platforms: $('#platforms-menu') };
@@ -669,12 +675,23 @@ drawer.addEventListener('keydown', (event) => {
 document.addEventListener('click', (event) => {
   const link = event.target.closest('a[href^="?"]');
   if (!link) return;
+  const currentParams = new URLSearchParams(location.search);
+  const nextUrl = new URL(link.href);
+  const nextParams = nextUrl.searchParams;
+  const preservePlatform = currentParams.get('page') === 'platforms'
+    && nextParams.get('page') === 'platforms'
+    && link.dataset.platformSelect
+    ? { name: link.dataset.platformSelect, target: link.dataset.platformTarget, viewportTop: link.getBoundingClientRect().top }
+    : null;
   event.preventDefault();
-  history.pushState({}, '', link.href);
+  if (preservePlatform) history.replaceState({ ...(history.state || {}), page: 'platforms', scrollY: window.scrollY }, '', location.href);
+  history.pushState(preservePlatform ? { page: 'platforms', scrollY: window.scrollY } : {}, '', link.href);
   if (drawer.classList.contains('open')) closeDrawer();
-  render();
+  render({ preservePlatform });
 });
-window.addEventListener('popstate', render);
+window.addEventListener('popstate', (event) => render({
+  restorePlatformScroll: event.state?.page === 'platforms' ? event.state.scrollY : undefined
+}));
 
 const communityBand = $('.community-band');
 if (communityBand && 'IntersectionObserver' in window) {

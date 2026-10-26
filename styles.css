@@ -183,8 +183,8 @@ p { text-wrap: pretty; }
 .platform-directory-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); border: 1px solid var(--paper-border); background: var(--paper-border); gap: 1px; }
 .platform-directory-card { display: grid; grid-template-columns: 210px 1fr; gap: 1.4rem; padding: 1.2rem; background: var(--paper); }
 .platform-directory-card.selected { grid-column: 1 / -1; box-shadow: inset 0 0 0 2px var(--accent); }
-.platform-card-art { position: relative; min-height: 190px; display: block; overflow: hidden; background: #fff; }
-.platform-card-art img { width: 100%; height: 100%; display: block; object-fit: contain; padding: 1.1rem; }
+.platform-card-art { position: relative; min-height: 190px; display: block; overflow: hidden; background: #111719; }
+.platform-card-art img { width: 100%; height: 100%; display: block; object-fit: contain; padding: .55rem; }
 .platform-card-art span { position: absolute; top: .7rem; left: .7rem; color: var(--accent); font-size: .65rem; font-weight: 700; }
 .platform-directory-card > div { align-self: center; }
 .platform-directory-card h2 { margin: 0 0 .5rem; font: 600 3.2rem/.9 var(--display); }
