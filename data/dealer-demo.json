@@ -1,0 +1,43 @@
+{
+  "notice": "Fictional dealer account and sample orders created for this demonstration. No live dealer, inventory, pricing, order, or shipment systems are connected.",
+  "as_of_date": "2026-10-26",
+  "profile": {
+    "business": "Lone Star Outfitters (Demo)",
+    "contact": "Jordan Reed",
+    "email": "jordan@lonestaroutfitters.example",
+    "phone": "(817) 555-0142",
+    "billing": { "line1": "4100 Mockingbird Lane", "city": "Fort Worth", "state": "TX", "postal": "76107" },
+    "shipping": { "line1": "220 Demo Trail", "city": "Fort Worth", "state": "TX", "postal": "76116" },
+    "status": "Demo account"
+  },
+  "orders": [
+    {
+      "id": "TTD-26041", "date": "2026-10-22", "status": "Processing", "total": 842.50,
+      "items": [{ "slug": "diablo-ak-47-frt-forced-reset-trigger", "quantity": 4 }, { "slug": "5-magazine-extension-for-sig-sauer-p320-pistols", "quantity": 5 }],
+      "charges": { "subtotal": 820, "shipping": 12.5, "tax": 10 }, "tracking": null,
+      "address": { "name": "Jordan Reed", "line1": "220 Demo Trail", "city": "Fort Worth", "state": "TX", "postal": "76116" },
+      "history": [{ "label": "Order placed", "date": "2026-10-22", "complete": true }, { "label": "Processing", "date": "2026-10-23", "complete": true }, { "label": "Awaiting shipment", "date": null, "complete": false }]
+    },
+    {
+      "id": "TTD-26038", "date": "2026-10-18", "status": "Awaiting shipment", "total": 516.00,
+      "items": [{ "slug": "frt-forced-reset-trigger-for-glock-gen-1-6", "quantity": 3 }, { "slug": "ak-47-30-rd-magazine-custom-dual-window", "quantity": 6 }],
+      "charges": { "subtotal": 500, "shipping": 8, "tax": 8 }, "tracking": null,
+      "address": { "name": "Jordan Reed", "line1": "220 Demo Trail", "city": "Fort Worth", "state": "TX", "postal": "76116" },
+      "history": [{ "label": "Order placed", "date": "2026-10-18", "complete": true }, { "label": "Processing", "date": "2026-10-19", "complete": true }, { "label": "Awaiting shipment", "date": "2026-10-21", "complete": true }]
+    },
+    {
+      "id": "TTD-26029", "date": "2026-10-12", "status": "Shipped", "total": 392.00,
+      "items": [{ "slug": "1911-2011-frt-forced-reset-trigger", "quantity": 5 }, { "slug": "real-avid-handgun-cleaning-kit", "quantity": 4 }],
+      "charges": { "subtotal": 380, "shipping": 7, "tax": 5 }, "tracking": "DEMO-TRACK-2048",
+      "address": { "name": "Jordan Reed", "line1": "220 Demo Trail", "city": "Fort Worth", "state": "TX", "postal": "76116" },
+      "history": [{ "label": "Order placed", "date": "2026-10-12", "complete": true }, { "label": "Processing", "date": "2026-10-13", "complete": true }, { "label": "Shipped", "date": "2026-10-15", "complete": true }]
+    },
+    {
+      "id": "TTD-26017", "date": "2026-10-03", "status": "Delivered", "total": 268.00,
+      "items": [{ "slug": "pro-mag-taurus-tx-22-lr-17-rd-mag", "quantity": 8 }, { "slug": "texas-triggers-snapback-hat", "quantity": 2 }],
+      "charges": { "subtotal": 250, "shipping": 10, "tax": 8 }, "tracking": "DEMO-TRACK-1733",
+      "address": { "name": "Jordan Reed", "line1": "220 Demo Trail", "city": "Fort Worth", "state": "TX", "postal": "76116" },
+      "history": [{ "label": "Order placed", "date": "2026-10-03", "complete": true }, { "label": "Processing", "date": "2026-10-04", "complete": true }, { "label": "Shipped", "date": "2026-10-05", "complete": true }, { "label": "Delivered", "date": "2026-10-08", "complete": true }]
+    }
+  ]
+}

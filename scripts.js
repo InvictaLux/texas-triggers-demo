@@ -6,6 +6,7 @@ let products = [];
 let contact = null;
 let kalash = null;
 let dealers = null;
+let dealerDemo = null;
 let presentation = { products: {} };
 let catalogImages = { products: {} };
 let pageCleanup = () => {};
@@ -369,11 +370,13 @@ function dealersPage() {
   const wholesale = dealers.wholesale;
   return `${pageHero('Trade', 'Dealers & wholesale', 'Verified dealer, wholesale, installation-partner, and creator contact paths.')}
     <section class="dealer-page page-section paper-section">
-      <article class="dealer-lead"><span class="eyebrow accent">Dealer / wholesale</span><h2>Dealer accounts</h2><p>${esc(wholesale.scope)}</p><a class="button button-dark" href="mailto:${esc(wholesale.email)}">Email ${esc(wholesale.contact_name)} <span aria-hidden="true">↗</span></a></article>
+      <article class="dealer-lead"><span class="eyebrow accent">Dealer / wholesale</span><h2>Dealer accounts</h2><p>${esc(wholesale.scope)}</p><a class="button button-dark" href="?page=dealer-portal">Enter dealer portal demo <span aria-hidden="true">↗</span></a><p><a class="text-link" href="mailto:${esc(wholesale.email)}">Email ${esc(wholesale.contact_name)} <span aria-hidden="true">↗</span></a></p></article>
       <div class="dealer-list"><div class="section-heading"><div><span class="eyebrow accent">Installation dealers</span><h2>Published dealer contacts</h2></div></div>${dealers.installation_dealers.map((dealer) => `<article><div><h3>${esc(dealer.name)}</h3><p>${esc(dealer.evidence)}</p></div><a class="text-link" href="${esc(dealer.url)}" target="_blank" rel="noreferrer">Visit dealer <span aria-hidden="true">↗</span></a></article>`).join('')}<p class="dealer-disclaimer">${esc(dealers.installation_disclaimer)}</p></div>
       <article class="creator-path"><span class="eyebrow accent">Promoters / creators</span><h2>Creator inquiries</h2><p>${esc(dealers.promoters.instructions)}</p><a class="text-link" href="mailto:${esc(dealers.promoters.email)}">${esc(dealers.promoters.email)} <span aria-hidden="true">↗</span></a></article>
     </section>`;
 }
+
+function dealerPortalPage() { return window.renderDealerPortal(new URLSearchParams(location.search), dealerDemo, products, presentation, catalogImages, dealers); }
 
 function contactPage() {
   const details = contact.contact_information;
@@ -437,6 +440,7 @@ function wireCarousel() {
 }
 
 function wirePage(page) {
+  if (page === 'dealer-portal') window.wireDealerPortal();
   if (page === 'home') wireCarousel();
   $$('.gallery-thumb').forEach((button) => button.addEventListener('click', () => {
     $('#gallery-main-image').src = button.dataset.galleryImage;
@@ -507,7 +511,7 @@ function wirePage(page) {
   updateCartCount();
 }
 
-const titleLabels = { home: 'Texas Triggers', products: 'Products', platforms: 'Platforms', installation: 'Installation Center', contact: 'Contact', support: 'Support', dealers: 'Dealers', about: 'About', 'kalash-bash': 'Kalash Bash', cart: 'Cart', checkout: 'Checkout' };
+const titleLabels = { home: 'Texas Triggers', products: 'Products', platforms: 'Platforms', installation: 'Installation Center', contact: 'Contact', support: 'Support', dealers: 'Dealers', 'dealer-portal': 'Dealer Portal Demo', about: 'About', 'kalash-bash': 'Kalash Bash', cart: 'Cart', checkout: 'Checkout' };
 const pageDescriptions = {
   home: 'Browse Texas Triggers products, platforms, installation resources, dealers, and support.',
   products: 'Browse the Texas Triggers product catalog by category.',
@@ -516,6 +520,7 @@ const pageDescriptions = {
   contact: 'Contact Texas Triggers for general, order, dealer, or creator inquiries.',
   support: 'Find Texas Triggers installation, order, returns, warranty, and contact resources.',
   dealers: 'Texas Triggers dealer, wholesale, installation-partner, and creator contact information.',
+  'dealer-portal': 'Dealer portal demonstration using fictional data.',
   about: 'Learn about Texas Triggers, its Fort Worth location, product categories, events, and support resources.',
   'kalash-bash': 'Texas Triggers Kalash Bash event information.',
   cart: 'Review products and quantities selected for the Texas Triggers demo cart.',
@@ -573,7 +578,7 @@ function render() {
   pageCleanup();
   pageCleanup = () => {};
   const page = new URLSearchParams(location.search).get('page') || 'home';
-  const views = { home, products: productsPage, platforms: platformsPage, product: productPage, installation: installationPage, contact: contactPage, support: supportPage, dealers: dealersPage, about: aboutPage, 'kalash-bash': kalashPage, cart: cartPage, checkout: checkoutPage };
+  const views = { home, products: productsPage, platforms: platformsPage, product: productPage, installation: installationPage, contact: contactPage, support: supportPage, dealers: dealersPage, 'dealer-portal': dealerPortalPage, about: aboutPage, 'kalash-bash': kalashPage, cart: cartPage, checkout: checkoutPage };
   app.innerHTML = (views[page] || home)();
   document.body.dataset.page = page;
   updateDocumentMetadata(views[page] ? page : 'home');
@@ -679,13 +684,14 @@ if (communityBand && 'IntersectionObserver' in window) {
 } else communityBand?.classList.add('revealed');
 
 async function boot() {
-  [products, contact, kalash, dealers, presentation, catalogImages] = await Promise.all([
+  [products, contact, kalash, dealers, presentation, catalogImages, dealerDemo] = await Promise.all([
     fetch('data/products.json').then((response) => response.json()),
     fetch('data/pages/contact.json').then((response) => response.json()),
     fetch('data/pages/kalash-bash.json').then((response) => response.json()),
     fetch('data/pages/dealers.json').then((response) => response.json()),
     fetch('data/presentation/products.json').then((response) => response.json()),
-    fetch('data/presentation/catalog-images.json').then((response) => response.json())
+    fetch('data/presentation/catalog-images.json').then((response) => response.json()),
+    fetch('data/dealer-demo.json').then((response) => response.json())
   ]);
   cart = loadCart();
   render();
