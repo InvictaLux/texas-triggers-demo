@@ -88,6 +88,8 @@ body[data-page="dealer-portal"]{overflow-x:hidden}
   .dealer-table tbody{display:table-row-group}
   .dealer-table tr{display:table-row;margin:0;border:0;background:transparent}
   .dealer-table td,.dealer-table td:first-child,.dealer-table td:nth-child(4){display:table-cell;width:auto;padding:.65rem .55rem;text-align:left}
-  .dealer-table td::before{content:none}
+  .dealer-table td:nth-child(1)::before,.dealer-table td:nth-child(2)::before,.dealer-table td:nth-child(3)::before,.dealer-table td:nth-child(4)::before,.dealer-table td:nth-child(5)::before,.dealer-table td:nth-child(6)::before{display:none;content:none}
+  .dealer-table td>*{max-width:none;overflow-wrap:normal}
+  .dealer-table .dealer-status{white-space:nowrap}
 }
 @media(min-width:1101px){.dealer-product-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
