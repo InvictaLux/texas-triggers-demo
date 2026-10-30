@@ -48,7 +48,7 @@ body[data-page="dealer-portal"]{overflow-x:hidden}
 .dealer-select-label select{max-width:68%;min-width:0}
 .dealer-result-count,.dealer-catalog-toolbar>span{margin-left:0}
 .dealer-form-grid fieldset>div{grid-template-columns:minmax(0,2fr) minmax(3.2rem,.8fr) minmax(4.2rem,1fr)}
-.dealer-table-wrap{overflow:visible}
+.dealer-table-wrap{overflow-x:auto;container-type:inline-size}
 .dealer-table{width:100%;min-width:0;display:block}
 .dealer-table thead{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap}
 .dealer-table tbody,.dealer-table tr{display:block;width:100%}
@@ -81,9 +81,8 @@ body[data-page="dealer-portal"]{overflow-x:hidden}
   .dealer-form-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
   .dealer-product-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
 }
-@media(min-width:1101px){
-  .dealer-table-wrap{overflow-x:auto}
-  .dealer-table{display:table;min-width:650px}
+@container (min-width:700px){
+  .dealer-table{display:table;min-width:680px;table-layout:fixed}
   .dealer-table thead{position:static;width:auto;height:auto;overflow:visible;clip:auto;white-space:normal}
   .dealer-table tbody{display:table-row-group}
   .dealer-table tr{display:table-row;margin:0;border:0;background:transparent}
@@ -91,5 +90,10 @@ body[data-page="dealer-portal"]{overflow-x:hidden}
   .dealer-table td:nth-child(1)::before,.dealer-table td:nth-child(2)::before,.dealer-table td:nth-child(3)::before,.dealer-table td:nth-child(4)::before,.dealer-table td:nth-child(5)::before,.dealer-table td:nth-child(6)::before{display:none;content:none}
   .dealer-table td>*{max-width:none;overflow-wrap:normal}
   .dealer-table .dealer-status{white-space:nowrap}
+  .dealer-table th:nth-child(1),.dealer-table td:nth-child(1){width:100px}
+  .dealer-table th:nth-child(2),.dealer-table td:nth-child(2){width:100px}
+  .dealer-table th:nth-child(4),.dealer-table td:nth-child(4){width:105px}
+  .dealer-table th:nth-child(5),.dealer-table td:nth-child(5){width:135px}
+  .dealer-table th:nth-child(6),.dealer-table td:nth-child(6){width:105px}
 }
 @media(min-width:1101px){.dealer-product-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
